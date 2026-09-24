@@ -1,0 +1,35 @@
+# Ignored skeleton directories until activated
+vf00/
+vf02/
+vf03/
+vf04/
+vf05/
+vf06/
+vf07/
+vf08/
+vf09/
+vf1[0-9]/
+vf2[0-9]/
+vf3[0-9]/
+vf4[0-9]/
+vf5[0-9]/
+vf6[0-9]/
+vf7[0-9]/
+vf8[0-9]/
+vf9[0-9]/
+
+# Environment and IDE
+.gemini/
+.vercel/
+.idea/
+.vscode/
+
+# Python cache & logs
+__pycache__/
+*.pyc
+*.log
+
+# Raw extraction backups
+upload/raw_dump/
+*/upload/raw_dump/
+*.zip
