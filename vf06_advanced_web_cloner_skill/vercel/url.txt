@@ -1,0 +1,2 @@
+https://src-topaz-nu.vercel.app
+https://src-topaz-nu.vercel.app/admin

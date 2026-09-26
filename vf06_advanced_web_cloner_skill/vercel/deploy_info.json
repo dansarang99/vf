@@ -1,0 +1,28 @@
+{
+  "project_name": "majiyoung-atelier-edition",
+  "vercel_project": "src",
+  "scope": "leehankyus-projects",
+  "framework": "vanilla-web-enterprise-spa",
+  "status": "READY",
+  "target": "production",
+  "last_deployed_at": "2026-09-26T20:01:21+09:00",
+  "urls": {
+    "primary_production_url": "https://src-topaz-nu.vercel.app",
+    "stealth_admin_cms_url": "https://src-topaz-nu.vercel.app/admin",
+    "latest_deployment_url": "https://src-o28jry1nu-leehankyus-projects.vercel.app",
+    "inspector_url": "https://vercel.com/leehankyus-projects/src/9bV73wnLDj1i3UUEc2tqn59XUmRq"
+  },
+  "admin_credentials": {
+    "admin_id": "admin",
+    "admin_pw": "1234567",
+    "auth_note": "비밀번호는 화면 일체 미노출. 정식 관리자 원클릭 고속 인증(Fast-Pass) 지원",
+    "stealth_hotspot": "메인 페이지 상단 로고 ( 아틀리에 ) 하단 여백 클릭 시 관리자 인증 진입"
+  },
+  "features": [
+    "Firebase / Supabase Hybrid Database",
+    "E-Commerce Cart, Checkout, Order Ledger & Warranty Issuance",
+    "Admin CMS Studio v2.0 (42 Artworks Studio, Split-View Statement, Inquiries, Backup/Restore)",
+    "Strict 10,000 KRW Price Alignment Engine",
+    "Responsive Mobile Drawer & Lightbox Modal"
+  ]
+}

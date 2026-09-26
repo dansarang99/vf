@@ -1,0 +1,17 @@
+{
+  "name": "vf01_webclone",
+  "version": "1.0.0",
+  "description": "> **기획 및 지식재산권자**: (AX)창업기술 이한규 대표   > **공식 Vercel 라이브 배포**: [https://src-topaz-nu.vercel.app](https://src-topaz-nu.vercel.app)   > **공식 GitHub 아카이브**: [https://github.com/dansarang99/vf/tree/main/vf01_webclone](https://github.com/dansarang99/vf/tree/main/vf01_webclone)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.117.2",
+    "dotenv": "^18.0.4"
+  }
+}

@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MA JI YOUNG EDITION | 관리자 통합 제어 센터 (Admin CMS)</title>
+  <link rel="icon" type="image/svg+xml" href="../assets/images/logo_mjy.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Noto+Serif+KR:wght@300;400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="admin.css">
+</head>
+<body>
+
+  <!-- Sidebar -->
+  <aside class="admin-sidebar">
+    <div class="brand-header">
+      <div class="brand-title">MA JI YOUNG</div>
+      <div class="brand-sub">ADMIN CMS STUDIO</div>
+    </div>
+
+    <ul class="nav-menu">
+      <li class="nav-item">
+        <button class="nav-btn active" data-tab="tabArtworks">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L5 21"/></svg>
+          <span>작품 정밀 제어</span>
+          <span class="nav-badge" id="badgeArtCount">42</span>
+        </button>
+      </li>
+      <li class="nav-item">
+        <button class="nav-btn" data-tab="tabInquiries">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+          <span>소장 및 뷰잉 문의</span>
+          <span class="nav-badge" id="badgeInquiryCount" style="background:var(--accent-gold); color:#111;">0</span>
+        </button>
+      </li>
+      <li class="nav-item">
+        <button class="nav-btn" data-tab="tabStatement">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>
+          <span>작가노트 & 전시 에디터</span>
+        </button>
+      </li>
+      <li class="nav-item">
+        <button class="nav-btn" data-tab="tabSettings">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+          <span>Supabase DB & 클라우드</span>
+        </button>
+      </li>
+    </ul>
+
+    <div class="sidebar-footer">
+      <div>MA JI YOUNG ATELIER</div>
+      <a href="../index.html" class="live-link" target="_blank">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        <span>공식 갤러리 메인 가기</span>
+      </a>
+    </div>
+  </aside>
+
+  <!-- Main View -->
+  <main class="admin-main">
+    <header class="admin-header">
+      <h1 class="page-title" id="pageTitle">작품 정밀 제어</h1>
+      <div class="header-actions">
+        <div id="cloudStatusBadge" class="cloud-status-badge offline">
+          <span class="status-dot"></span> Local DB Hybrid
+        </div>
+        <button class="btn btn-secondary btn-sm" onclick="sessionStorage.removeItem('mjy_admin_auth_token'); location.reload();">로그아웃</button>
+      </div>
+    </header>
+
+    <div class="content-body">
+      <!-- KPI Top Summary -->
+      <section class="kpi-grid">
+        <div class="kpi-card">
+          <span class="kpi-label">수장고 전 작품</span>
+          <span class="kpi-val" id="kpiTotalWorks">42</span>
+          <span class="kpi-sub">마지영 개인전 《Moments》</span>
+        </div>
+        <div class="kpi-card">
+          <span class="kpi-label">소장 가능 (Available)</span>
+          <span class="kpi-val" id="kpiAvailableWorks" style="color:var(--status-available);">42</span>
+          <span class="kpi-sub">컬렉터 소장 문의 가능</span>
+        </div>
+        <div class="kpi-card">
+          <span class="kpi-label">소장 완료 (Sold Out)</span>
+          <span class="kpi-val" id="kpiSoldWorks" style="color:var(--status-sold);">0</span>
+          <span class="kpi-sub">아카이브 등록</span>
+        </div>
+        <div class="kpi-card">
+          <span class="kpi-label">접수된 소장 문의</span>
+          <span class="kpi-val" id="kpiInquiries" style="color:var(--accent-gold);">0</span>
+          <span class="kpi-sub">프라이빗 뷰잉룸 신청</span>
+        </div>
+      </section>
+
+      <!-- TAB 1: Artwork Studio -->
+      <div id="tabArtworks" class="tab-panel">
+        <div class="toolbar-row">
+          <div style="display:flex; gap:12px; flex:1; max-width:600px;">
+            <div class="search-input-wrap" style="flex:1;">
+              <input type="text" id="searchArtwork" class="search-input" placeholder="작품명, 코드, 시구 검색 (예: 26-001, 바람...)">
+            </div>
+            <select id="filterSeries" class="filter-select">
+              <option value="all">전체 컬렉션 (All)</option>
+              <option value="master">Moments 대표작 (Master)</option>
+              <option value="modular">4연작 모듈 세트 (Quad)</option>
+              <option value="duo">2연작 듀오 블록 (Duo)</option>
+            </select>
+          </div>
+          <div style="display:flex; gap:8px;">
+            <button class="btn btn-secondary" id="btnOpenBatchPrice">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+              작품 가격 일괄 가중치 조정
+            </button>
+            <button class="btn btn-primary" id="btnNewArtwork">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+              신규 작품 등록
+            </button>
+          </div>
+        </div>
+
+        <div class="data-table-wrap">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th style="width: 70px;">이미지</th>
+                <th>작품 정보 (Title / Code)</th>
+                <th>시리즈</th>
+                <th>규격 (Size)</th>
+                <th>소장가 (Price)</th>
+                <th>판매 상태</th>
+                <th style="width: 140px;">관리</th>
+              </tr>
+            </thead>
+            <tbody id="artworkTableBody">
+              <!-- Rendered via admin.js -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- TAB 2: Inquiries Ledger -->
+      <div id="tabInquiries" class="tab-panel" style="display:none;">
+        <div class="toolbar-row">
+          <h2 style="font-size:1.1rem; font-weight:600;">실시간 고객 소장 문의 및 프라이빗 뷰잉룸 신청 내역</h2>
+        </div>
+        <div class="data-table-wrap">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>접수 일시</th>
+                <th>고객명</th>
+                <th>연락처</th>
+                <th>이메일</th>
+                <th>관심 작품</th>
+                <th>문의 내용</th>
+                <th>처리 상태</th>
+              </tr>
+            </thead>
+            <tbody id="inquiryTableBody">
+              <!-- Rendered via admin.js -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- TAB 3: Statement & Exhibitions -->
+      <div id="tabStatement" class="tab-panel" style="display:none;">
+        <div style="background:var(--bg-card); border:1px solid var(--border-color); border-radius:12px; padding:28px; max-width:860px;">
+          <h2 style="font-size:1.15rem; margin-bottom:20px; font-family:var(--font-serif); color:var(--accent-gold);">마지영 공식 작가노트 (Artist Statement) 정밀 편집</h2>
+          
+          <div class="form-group">
+            <label class="form-label">전시 타이틀 (국문)</label>
+            <input type="text" id="statTitleKr" class="form-control">
+          </div>
+          <div class="form-group">
+            <label class="form-label">전시 타이틀 (영문)</label>
+            <input type="text" id="statTitleEn" class="form-control">
+          </div>
+          <div class="form-group">
+            <label class="form-label">작가노트 본문 (국문 - 문단별 두 줄 띄움)</label>
+            <textarea id="statBodyKr" class="form-control" rows="6"></textarea>
+          </div>
+          <div class="form-group">
+            <label class="form-label">작가노트 본문 (영문 - Paragraphs)</label>
+            <textarea id="statBodyEn" class="form-control" rows="6"></textarea>
+          </div>
+          <button class="btn btn-primary" id="btnSaveStatement">작가노트 즉시 저장</button>
+        </div>
+      </div>
+
+      <!-- TAB 4: Supabase Cloud & System Settings -->
+      <div id="tabSettings" class="tab-panel" style="display:none;">
+        <div style="display:grid; grid-template-columns:1fr 1fr; gap:24px; max-width:1000px;">
+          
+          <!-- Cloud DB Credentials -->
+          <div style="background:var(--bg-card); border:1px solid var(--border-color); border-radius:12px; padding:28px;">
+            <h2 style="font-size:1.1rem; margin-bottom:16px; color:var(--accent-gold); display:flex; align-items:center; gap:8px;">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"/></svg>
+              Supabase Cloud DB 연결
+            </h2>
+            <p style="font-size:0.84rem; color:var(--text-muted); margin-bottom:20px;">
+              Supabase 클라우드 프로젝트의 Project URL과 anon key를 입력하시면 즉시 클라우드 실시간 데이터베이스로 연동됩니다.
+            </p>
+
+            <div class="form-group">
+              <label class="form-label">Supabase Project URL</label>
+              <input type="text" id="cfgSupabaseUrl" class="form-control" placeholder="https://xyzcompany.supabase.co">
+            </div>
+            <div class="form-group">
+              <label class="form-label">Supabase Anon Public Key</label>
+              <textarea id="cfgSupabaseKey" class="form-control" rows="3" placeholder="eyJhbGciOi..."></textarea>
+            </div>
+            <button class="btn btn-primary" id="btnConnectSupabase" style="width:100%;">
+              Supabase 클라우드 연결 및 저장
+            </button>
+          </div>
+
+          <!-- Data Backup & Maintenance -->
+          <div style="background:var(--bg-card); border:1px solid var(--border-color); border-radius:12px; padding:28px;">
+            <h2 style="font-size:1.1rem; margin-bottom:16px; color:var(--text-main);">데이터베이스 백업 & 관리</h2>
+            <p style="font-size:0.84rem; color:var(--text-muted); margin-bottom:24px;">
+              현재 등록된 42점 전 작품, 작가노트, 전시 정보 및 고객 문의 데이터를 JSON 파일로 안전하게 백업하거나 기본 데이터로 초기화합니다.
+            </p>
+
+            <div style="display:flex; flex-direction:column; gap:12px;">
+              <button class="btn btn-secondary" id="btnExportJson">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+                전체 데이터베이스 백업 다운로드 (JSON)
+              </button>
+
+              <button class="btn btn-danger" id="btnResetDefault" style="margin-top:16px;">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
+                초기 데이터 공장 초기화 (Reset to Default)
+              </button>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- Login Modal -->
+  <div id="loginModal" class="modal-overlay">
+    <div class="modal-box" style="max-width:420px; text-align:center;">
+      <div style="padding: 36px 32px;">
+        <div style="font-family:var(--font-serif); font-size:1.4rem; font-weight:700; color:var(--accent-gold); margin-bottom:8px;">MA JI YOUNG</div>
+        <p style="font-size:0.85rem; color:var(--text-muted); margin-bottom:24px;">관리자 전용 정밀 제어 모드 보안 인증</p>
+
+        <div class="form-group" style="text-align:left;">
+          <label class="form-label">관리자 아이디 (ID)</label>
+          <input type="text" id="loginId" class="form-control" placeholder="admin" value="admin" style="font-size:1rem;">
+        </div>
+
+        <div class="form-group" style="text-align:left; margin-top:12px;">
+          <label class="form-label">비밀번호 (Password)</label>
+          <input type="password" id="loginPassword" class="form-control" placeholder="1234567" style="font-size:1.1rem; letter-spacing:0.1em;">
+        </div>
+
+        <div style="font-size:0.75rem; color:var(--text-muted); text-align:left; margin-top:6px; margin-bottom:18px;">
+          * 기본 인증 정보: <span style="color:var(--accent-gold);">admin / 1234567</span>
+        </div>
+
+        <button class="btn btn-primary" id="btnLogin" style="width:100%;">관리자 로그인</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Batch Price Weight Adjustment Modal -->
+  <div id="batchPriceModal" class="modal-overlay">
+    <div class="modal-box" style="max-width: 780px;">
+      <div class="modal-header">
+        <h3 style="font-size:1.15rem; color:var(--accent-gold); display:flex; align-items:center; gap:8px;">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+          작품 전체 일괄 가격 가중치 조정
+        </h3>
+        <button class="btn btn-secondary btn-sm" id="btnCloseBatchPrice" style="padding:4px 8px;">✕</button>
+      </div>
+      <div class="modal-body">
+        <div style="background:rgba(197, 168, 128, 0.1); border:1px solid rgba(197, 168, 128, 0.3); border-radius:8px; padding:12px 16px; margin-bottom:20px; font-size:0.85rem; color:var(--accent-gold);">
+          💡 <strong>규칙 적용 안내:</strong> 계산된 모든 작품의 최종 소장가는 시장 정책에 따라 <strong>최소 10,000원 단위</strong>로 자동 반올림(절사/올림) 정렬됩니다.
+        </div>
+
+        <div class="form-grid-2">
+          <div class="form-group">
+            <label class="form-label">적용 대상 컬렉션</label>
+            <select id="batchScope" class="form-control">
+              <option value="all">전체 수장고 작품 (All Artworks)</option>
+              <option value="master">Moments 대표작 (Master Series)</option>
+              <option value="modular">4연작 모듈 세트 (Quad Series)</option>
+              <option value="duo">2연작 듀오 블록 (Duo Series)</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label class="form-label">가중치 조정 모드</label>
+            <select id="batchMode" class="form-control">
+              <option value="multiplier">배율/비율(%) 가중치 곱적용</option>
+              <option value="fixed">고정 금액 일괄 가감 (+/-)</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="form-grid-2">
+          <div class="form-group">
+            <label class="form-label" id="batchValueLabel">가중치 배율 (예: 1.10 = +10%, 1.20 = +20%, 0.90 = -10%)</label>
+            <input type="number" id="batchValue" class="form-control" step="0.01" value="1.10" placeholder="1.10">
+          </div>
+          <div class="form-group">
+            <label class="form-label">빠른 가중치 프리셋 선택</label>
+            <div style="display:flex; gap:6px; flex-wrap:wrap; margin-top:4px;">
+              <button type="button" class="btn btn-secondary btn-sm preset-btn" data-val="1.05">+5% (1.05배)</button>
+              <button type="button" class="btn btn-secondary btn-sm preset-btn" data-val="1.10">+10% (1.10배)</button>
+              <button type="button" class="btn btn-secondary btn-sm preset-btn" data-val="1.20">+20% (1.20배)</button>
+              <button type="button" class="btn btn-secondary btn-sm preset-btn" data-val="0.90">-10% (0.90배)</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Real-time Preview Table -->
+        <div style="margin-top:20px;">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px;">
+            <label class="form-label" style="margin-bottom:0;">실시간 변동 시뮬레이션 미리보기 (샘플 5건)</label>
+            <span style="font-size:0.75rem; color:var(--text-muted);" id="batchAffectedCount">적용 대상: 0건</span>
+          </div>
+          <div class="data-table-wrap" style="max-height: 200px; overflow-y: auto;">
+            <table class="data-table" style="font-size:0.8rem;">
+              <thead>
+                <tr>
+                  <th>작품 코드/명</th>
+                  <th>시리즈</th>
+                  <th>기존 소장가</th>
+                  <th>변경 후 예상 소장가 (10,000원 단위)</th>
+                  <th>변동 차액</th>
+                </tr>
+              </thead>
+              <tbody id="batchPreviewBody">
+                <!-- Rendered dynamically -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-secondary" id="btnCancelBatchPrice">취소</button>
+        <button class="btn btn-primary" id="btnApplyBatchPrice">
+          가중치 계산 및 전체 가격 일괄 저장 확정
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Artwork Edit/Create Modal -->
+  <div id="artworkModal" class="modal-overlay">
+    <div class="modal-box">
+      <div class="modal-header">
+        <h3 id="artModalTitle" style="font-size:1.1rem;">작품 정밀 편집</h3>
+        <button class="btn btn-secondary btn-sm" id="btnCloseArtworkModal" style="padding:4px 8px;">✕</button>
+      </div>
+      <div class="modal-body">
+        <input type="hidden" id="editArtId">
+
+        <div class="form-grid-2">
+          <div class="form-group">
+            <label class="form-label">작품 코드 (Title / Code)</label>
+            <input type="text" id="editArtCode" class="form-control" placeholder="예: Moments 26-001">
+          </div>
+          <div class="form-group">
+            <label class="form-label">컬렉션 분류 (Series)</label>
+            <select id="editArtSeries" class="form-control">
+              <option value="master">Moments 대표작 (Master)</option>
+              <option value="modular">4연작 모듈 세트 (Quad)</option>
+              <option value="duo">2연작 듀오 블록 (Duo)</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="form-grid-2">
+          <div class="form-group">
+            <label class="form-label">작품 부제 (국문)</label>
+            <input type="text" id="editArtTitleKr" class="form-control" placeholder="예: 바람이 머무는 곳">
+          </div>
+          <div class="form-group">
+            <label class="form-label">작품 부제 (영문)</label>
+            <input type="text" id="editArtTitleEn" class="form-control" placeholder="Where the Wind Lingers">
+          </div>
+        </div>
+
+        <div class="form-grid-2">
+          <div class="form-group">
+            <label class="form-label">규격 (Size)</label>
+            <input type="text" id="editArtSize" class="form-control" placeholder="W 67.5 x H 40.0 cm">
+          </div>
+          <div class="form-group">
+            <label class="form-label">소장 가격 (KRW)</label>
+            <input type="text" id="editArtPrice" class="form-control" placeholder="8,500,000">
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">재료 및 기법 (Medium)</label>
+          <input type="text" id="editArtMedium" class="form-control" value="mixed media on wooden Blocks">
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">이미지 에셋 경로</label>
+          <input type="text" id="editArtImage" class="form-control" placeholder="assets/images/artwork_moments_26_001.png">
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">큐레이토리얼 시구 / 해설 (국문)</label>
+          <textarea id="editArtPoemKr" class="form-control" rows="3"></textarea>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">큐레이토리얼 시구 / 해설 (영문)</label>
+          <textarea id="editArtPoemEn" class="form-control" rows="3"></textarea>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-primary" id="btnSaveArtwork">변경사항 완벽 저장</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="../js/data.js"></script>
+  <script src="../js/supabase_client.js"></script>
+  <script src="admin.js"></script>
+</body>
+</html>
