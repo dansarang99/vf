@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "name": "template_1x_40p",
+  "description": "Standard 1:1 40-slide Master Presentation Template Architecture",
+  "aspect_ratio": "16:9",
+  "dimensions": {
+    "width_in": 13.333,
+    "height_in": 7.5
+  },
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "chapter_title": "서론: 피지컬 AI 시대와 새만금의 가치",
+      "slides_range": [1, 6],
+      "archetypes": ["cover", "executive_summary", "toc", "chapter_divider", "eda_chart", "3_col_strategy"]
+    },
+    {
+      "chapter_num": 2,
+      "chapter_title": "하드웨어 플랫폼: 차세대 전동식 아틀라스",
+      "slides_range": [7, 10],
+      "archetypes": ["chapter_divider", "eda_chart", "eda_chart", "3_col_strategy"]
+    },
+    {
+      "chapter_num": 3,
+      "chapter_title": "초거대 전력망: 10GW RE100 청정에너지 인프라",
+      "slides_range": [11, 15],
+      "archetypes": ["chapter_divider", "eda_chart", "hero_stat", "3_col_strategy", "eda_chart"]
+    },
+    {
+      "chapter_num": 4,
+      "chapter_title": "지능의 설계: VLA 파운데이션 모델 & 디지털 트윈",
+      "slides_range": [16, 20],
+      "archetypes": ["chapter_divider", "2_col_flow", "3_col_strategy", "eda_chart", "2_col_flow"]
+    },
+    {
+      "chapter_num": 5,
+      "chapter_title": "지능의 실체화: SDF 스마트 메타플랜트",
+      "slides_range": [21, 26],
+      "archetypes": ["chapter_divider", "eda_chart", "3_col_strategy", "3_col_strategy", "3_col_strategy", "eda_chart"]
+    },
+    {
+      "chapter_num": 6,
+      "chapter_title": "트라이포트 물류 및 거시적 경제 파급효과",
+      "slides_range": [27, 40],
+      "archetypes": ["chapter_divider", "eda_chart", "3_col_strategy", "3_col_strategy", "eda_chart", "eda_chart", "chapter_divider", "eda_chart", "eda_chart", "3_col_strategy", "eda_chart", "eda_chart", "conclusion", "closing"]
+    }
+  ]
+}
