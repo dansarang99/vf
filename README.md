@@ -6,9 +6,12 @@
 
 ## 📂 프로젝트 디렉토리 인덱스
 
-| 프로젝트 코드 | 프로젝트명 | 상태 | Vercel 라이브 URL | 설명 |
+| 프로젝트 코드 | 프로젝트명 | 상태 | 주요 산출물 / 기능 | 설명 |
 | :--- | :--- | :---: | :---: | :--- |
-| **`vf01_webclone`**<br>(`vf01_web_cloner`) | **웹사이트 복제 & 정밀 리브랜딩 파이프라인**<br>《MA JI YOUNG EDITION》 | 배포완료 | [https://src-topaz-nu.vercel.app](https://src-topaz-nu.vercel.app) | 하이엔드 갤러리 디자인 시스템 역공학, PPTX 42점 전 작품 수장고 디지털화, 박서보/타사 브랜드 흔적 0% 완전 박멸 및 청목미술관 공식 연동 단독 아카이브 |
+| **`vf01_webclone`**<br>(`vf01_web_cloner`) | **웹사이트 복제 & 정밀 리브랜딩 파이프라인**<br>《MA JI YOUNG EDITION》 | 배포완료 | [라이브 데모](https://src-topaz-nu.vercel.app) | 하이엔드 갤러리 디자인 시스템 역공학, PPTX 42점 전 작품 수장고 디지털화, 박서보/타사 브랜드 흔적 0% 완전 박멸 및 청목미술관 공식 연동 단독 아카이브 |
+| **`vf02_new_web_cloner_skill`** | **차세대 웹·슬라이드 클로너 마스터 파이프라인** | 완료 | 1:N 분량증가 및 서사 확장 | PPTX 및 웹 대상 1:1 역공학, 5대 TEXT 청사진, 공공데이터 EDA, 네이티브 벡터 도형 주입 및 [001]~[999] 순차 이력 영구 보존 |
+| **`vf03_hwp_pdf_docx_cloner_skill`** | **HWP / PDF ➔ DOCX 100% 무손실 크로스플랫폼 문서 복제** | 완료 | [결과물 대장](vf03_hwp_pdf_docx_cloner_skill/result/) | 한컴 COM & pdf2docx 기반 0% 편차(Zero-Drift) 캘리브레이션, 네이티브 일반 TEXT 사명 치환, 문서번호(AX-) 동기화, MS Word COM 듀얼 검증 |
+| **`vf04_docxcloner_skill(iso9001)`** | **엔터프라이즈 ISO 9001 규격 DOCX 100% 무손실 복제** | 완료 | [결과물 대장](vf04_docxcloner_skill(iso9001)/result/) | ISO 9001 매뉴얼(68p) 및 절차서(201p) 총 269p 전수 OOXML 외과수술 치환, 네이티브 TEXT `(AX)창업기술`, Word COM 0-Error 검증 |
 
 ---
 
