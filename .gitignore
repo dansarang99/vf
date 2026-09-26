@@ -29,7 +29,8 @@ __pycache__/
 *.pyc
 *.log
 
-# Raw extraction backups
-upload/raw_dump/
-*/upload/raw_dump/
-*.zip
+# Temporary scratch
+scratch/
+*/scratch/
+~*
+*.tmp.docx
