@@ -34,3 +34,6 @@ scratch/
 */scratch/
 ~*
 *.tmp.docx
+
+# Large Audio Files over 100MB
+*master_voice.mp3
