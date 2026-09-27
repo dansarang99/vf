@@ -35,5 +35,7 @@ scratch/
 ~*
 *.tmp.docx
 
-# Large Audio Files over 100MB
+# Large Audio/Video Files over 100MB (Local Master Artifacts)
 *master_voice.mp3
+*master.mp4
+*fullscene_remake.mp4
