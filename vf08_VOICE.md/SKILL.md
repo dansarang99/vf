@@ -28,39 +28,41 @@ description: "(AX)창업기술 대표 고유 실무 지식재산권 기반. 사�
 
 ---
 
-## 2. my_TTS 엔드투엔드 생성 아키텍처
+## 2. result/ [001]~[999] 무손실 순차 보존 아키텍처
+
+생성되는 모든 결과물(분석 문서, 대본 텍스트, 음성 오디오)은 누락 및 중첩이 발생하지 않도록 `result/` 디렉터리에 `[001]`부터 `[999]`까지 3자리 순차 번호 접두어를 붙여 페어로 영구 보존됩니다.
 
 ```
-[사용자 요청: "AI 영상 제작 실무 1강 대본과 음성 만들어줘"]
-                           │
-                           ▼
-  [Step 1: 8대 DNA 기반 대본 텍스트 자동 생성]
-    - 쉼표(,)와 마침표(.)를 음성 호흡 주기에 맞춰 설계
-    - 저장 위치: my_TTS/lecture_01_script.txt
-                           │
-                           ▼
-  [Step 2: 음성 합성 엔진 자동 구동]
-    - python src/self_tts_engine.py --file my_TTS/lecture_01_script.txt --output my_TTS/lecture_01_voice.mp3
-                           │
-                           ▼
-  [Step 3: my_TTS/ 산출물 페어링 보존 및 검증]
-    - 텍스트 대본: my_TTS/lecture_01_script.txt
-    - 완성 오디오: my_TTS/lecture_01_voice.mp3
-    - 무결성 검증 후 사용자에게 결과 보고
+C:\Users\note\vf\vf08_VOICE.md\result\
+├── [001]_VOICE_BASIC_01_DNA.md
+├── [002]_VOICE_BASIC_02_DNA.md
+├── [003]_VOICE_BASIC_03_DNA.md
+├── [004]_VOICE_BASIC_04_DNA.md
+├── [005]_VOICE_BASIC_05_DNA.md
+├── [006]_VOICE_MASTER_DNA.md
+├── [007]_sample_script.txt
+├── [008]_sample_generated_voice.mp3
+├── [009]_lecture_01_script.txt
+├── [010]_lecture_01_voice.mp3
+├── [011]_auto_index_test_script.txt
+└── [011]_auto_index_test_voice.mp3
+...
+└── [999]_...
 ```
 
 ---
 
 ## 3. 실행 명령어 가이드
 
-### 단일 문장 즉시 생성
+### 단일 문장 즉시 생성 (자동 [NNN] 번호 매김)
 ```bash
-python src/self_tts_engine.py --text "안녕하세요. 오늘 강의를 시작하겠습니다." --output my_TTS/intro.mp3
+python src/self_tts_engine.py --text "안녕하세요. 오늘 강의를 시작하겠습니다." --name "intro"
 ```
+*(실행 시 `result/[NNN]_intro_script.txt`와 `result/[NNN]_intro_voice.mp3`가 자동 생성됩니다.)*
 
 ### 대본 파일 기반 자동 생성
 ```bash
-python src/self_tts_engine.py --file my_TTS/lecture_01_script.txt --output my_TTS/lecture_01_voice.mp3
+python src/self_tts_engine.py --file my_TTS/lecture_01_script.txt --name "lecture_01"
 ```
 
 ### 원클릭 일괄 실행 (배치 파일)
