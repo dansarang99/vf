@@ -1,0 +1,36 @@
+{
+  "project": "vf10_k_space_odyssey_ep03",
+  "version": "3.0.0",
+  "worldbuilding_locations": {
+    "mars_biosphere_dome": {
+      "name": "화성 유토피아 평원 자립형 바이오스피어 돔",
+      "prompt": "Futuristic gigantic transparent geodesic biosphere dome on Mars Utopia Planitia, lush green vertical forests and hydroponic research towers thriving inside red Martian landscape, twin moons Phobos and Deimos in salmon-pink sky, cinematic photorealistic sci-fi render, 8k resolution --ar 16:9",
+      "mood": "Triumph of life, vibrant green against red desert, scientific breakthrough"
+    },
+    "cheonmyeong_ii_ship": {
+      "name": "초장거리 심우주 순양함 '천명호 II'",
+      "prompt": "Gargantuan 500-meter deep-space explorer dreadnought Cheonmyeong-II flying towards Jupiter, sleek white titanium composite armor with bold South Korean flag and KASA emblem, massive helium-3 fusion pulse thrusters firing brilliant cyan-blue plasma trails, asteroid field in cosmic background, 8k IMAX space render --ar 16:9",
+      "mood": "Monumental technological might, epic grandeur, boundless frontier"
+    },
+    "jupiter_great_red_spot": {
+      "name": "목성 대적점 궤도 및 방사선 벨트",
+      "prompt": "Stunning hyper-realistic close-up vista of Jupiter Great Red Spot from orbit, swirling turbulent ammonia clouds in rust orange and cream white, Cheonmyeong-II ship tiny in comparison against massive planet curvature, brilliant solar lens flare, photorealistic space photography --ar 16:9",
+      "mood": "Sublime planetary terror, astronomical scale, awe-inspiring"
+    },
+    "europa_ice_surface": {
+      "name": "유로파 얼음 지각 및 수증기 간헐천 플룸",
+      "prompt": "Cinematic low-altitude shot of Jupiter icy moon Europa, vast pure-white and copper-veined ice cracked surface, towering hundred-kilometer geothermal water vapor geyser erupting into vacuum space, giant Jupiter looming massive in black sky, photorealistic 8k IMAX --ar 16:9",
+      "mood": "Pristine frozen wilderness, planetary mystery, volatile energy"
+    },
+    "haetae_subsurface_sub": {
+      "name": "지하 해양 자율 탐사 잠수정 '해태호'",
+      "prompt": "High-tech autonomous exploration submarine Haetae descending through ice borehole into dark alien subsurface ocean, titanium gold pressure hull, powerful robotic arms, quad halogen searchlights cutting through pitch-black subterranean water, photorealistic sci-fi exploration --ar 16:9",
+      "mood": "Deep-sea claustrophobia, cutting-edge robotic exploration"
+    },
+    "bioluminescent_ocean": {
+      "name": "유로파 심해 열수구 및 생체 발광 외계 생명체 군집",
+      "prompt": "Alien subsurface ocean abyss on Europa, towering deep-sea hydrothermal chimney vent billowing mineral smoke, ethereal bioluminescent organisms glowing neon cyan and violet floating like delicate translucent cosmic jellyfish, first contact wonder, 8k Unreal Engine 5 render aesthetic --ar 16:9",
+      "mood": "Cosmic wonder, breathtaking first contact, sacred mystery of life"
+    }
+  }
+}

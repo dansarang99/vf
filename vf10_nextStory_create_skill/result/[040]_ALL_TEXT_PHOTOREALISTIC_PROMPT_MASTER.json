@@ -1,0 +1,82 @@
+[
+  {
+    "sequence_id": 1,
+    "theme": "01_naro_launchpad",
+    "title": "나로우주센터 발사대 & 카운트다운",
+    "scenes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+    "prompt_en": "Photorealistic documentary still of South Korea Naro Space Center at dawn, massive next-generation KSLV-III heavy-lift rocket standing on the launch pad, gantries and umbilical towers disconnecting, cryogenic liquid oxygen vapor venting into the cool coastal morning air, cinematic volumetric lighting, 8k actual footage quality, shot on IMAX 70mm, hyper-realistic, dramatic atmosphere",
+    "source_keyword": "rocket launch pad dawn space center nasa actual footage"
+  },
+  {
+    "sequence_id": 2,
+    "theme": "02_liftoff_flame",
+    "title": "1단 메가 클러스터링 엔진 점화 & 리프트오프",
+    "scenes": [14, 15, 16, 17, 18, 19, 20],
+    "prompt_en": "Ultra-realistic close-up of KSLV-III rocket launch liftoff, roaring kerosene and liquid oxygen flame exhaust erupting from multi-engine cluster, massive smoke and water suppression deluge system boiling into steam, supersonic shock diamonds in the fire plume, shaking launch tower, cinematic 8k ultra-detailed, actual footage aesthetic, high shutter speed, photorealism",
+    "source_keyword": "rocket liftoff engine flame shock diamond slow motion 8k"
+  },
+  {
+    "sequence_id": 3,
+    "theme": "03_earth_orbit",
+    "title": "지구 저궤도 진입 & 페어링 분리",
+    "scenes": [21, 22, 23],
+    "prompt_en": "Stunning real-life orbital photograph from low Earth orbit, South Korea KSLV-III payload fairing cleanly jettisoning in microgravity, revealing the Arion-1 lunar lander wrapped in gleaming gold MLI thermal foil, curved blue Earth horizon and ocean clouds below, bright unfiltered sunlight in pitch-black void, shot on Hasselblad space camera, 8k photorealistic",
+    "source_keyword": "earth orbit satellite view blue planet iss photograph 8k"
+  },
+  {
+    "sequence_id": 4,
+    "theme": "04_tli_nebula",
+    "title": "TLI 달 전이 궤도 항행 & 우주 심연",
+    "scenes": [24, 25, 26, 27, 28, 29],
+    "prompt_en": "Cinematic realistic shot of Korean spaceship sailing between Earth and Moon, translucent cold vacuum of deep space, distant milky way nebula glow, RCS attitude thruster firing tiny blue xenon pulses, solar array wings fully deployed and reflecting pale sunlight, documentary photorealism, Interstellar aesthetic, 8k raw photo",
+    "source_keyword": "deep space spaceship nebula stars cinematic photorealism"
+  },
+  {
+    "sequence_id": 5,
+    "theme": "05_debris_avoidance",
+    "title": "우주 파편(Space Debris) 회피 비상 기동",
+    "scenes": [30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43],
+    "prompt_en": "High-tension space documentary visual, defunct satellite fragments and metallic space debris whizzing past at orbital speeds, Korean spacecraft performing sudden evasive RCS lateral burn, dramatic red emergency beacon cockpit lighting, micrometeorite grazing space shield, hyper-realistic physics, 8k motion blur, IMAX cinematography",
+    "source_keyword": "space debris asteroid belt spacecraft avoidance action 8k"
+  },
+  {
+    "sequence_id": 6,
+    "theme": "06_lunar_orbit",
+    "title": "달 극궤도 포획 & 분화구 파노라마",
+    "scenes": [44, 45, 46, 47, 48, 49],
+    "prompt_en": "Spectacular actual lunar orbit photograph, barren grey surface of the Moon directly beneath, deep sharp shadows cast by craters and towering crater rim ridges, spacecraft shadow cast on the lunar dust, bright Earth rising above the lunar horizon in the distance (Earthrise), 8k Apollo-style medium format photography, hyper-detail",
+    "source_keyword": "moon orbit craters earthrise lunar reconnaissance orbiter real photo"
+  },
+  {
+    "sequence_id": 7,
+    "theme": "07_shackleton_landing",
+    "title": "달 남극 섀클턴 크레이터 역추진 착륙",
+    "scenes": [50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61],
+    "prompt_en": "Dramatic close-up of Arion-1 lunar lander touching down on Shackleton Crater permanently shadowed rim at the South Pole of the Moon, central throttling rocket engine blasting grey regolith dust clouds outward in vacuum, landing legs shock absorbers compressing upon contact, sharp stark shadows, 8k Artemis documentary real footage style",
+    "source_keyword": "lunar lander touching down moon surface dust plume realistic"
+  },
+  {
+    "sequence_id": 8,
+    "theme": "08_lunar_surface_korea",
+    "title": "달 표면 한국 기지 & 탐사 로버 해치 오픈",
+    "scenes": [62, 63, 64, 65, 66, 67, 68, 69, 70],
+    "prompt_en": "Photorealistic historic photograph on the Moon surface, South Korean flag emblem painted on the lander hull, automated rover ramping down onto the powdery lunar soil, tire tracks pressed into the grey regolith, inflatable habitat research module in background, Earth glowing softly in the dark black sky, 8k actual documentary record",
+    "source_keyword": "moon surface rover tracks lunar base astronaut realistic photo"
+  },
+  {
+    "sequence_id": 9,
+    "theme": "09_solar_flare_crisis",
+    "title": "태양 플레어 위기 & 심우주 레이저 펄스 교신",
+    "scenes": [71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84],
+    "prompt_en": "Hyper-realistic scientific space visual, coronal mass ejection and solar flare auroral glow bathing spacecraft in blinding radioactive particles, Korean ground optical communication dish firing high-power green laser beam through Earth atmosphere to space probe, data link restoration, sci-fi documentary photorealism, 8k render",
+    "source_keyword": "solar flare coronal mass ejection space radiation laser communication"
+  },
+  {
+    "sequence_id": 10,
+    "theme": "10_towards_mars",
+    "title": "화성 올림포스 몬스 지평선 & 2045 피날레",
+    "scenes": [85, 86, 87, 88, 89, 90, 91],
+    "prompt_en": "Breathtaking cinematic panoramic photograph of Mars, iconic reddish-orange rusted desert landscape with Olympus Mons volcano on the distant horizon, Korean Cheonmyeong-1 orbiter probe approaching upper thin atmosphere of Mars, soft pink sky, golden hour sunlight glancing off rust dunes, 8k actual Perseverance rover footage aesthetic",
+    "source_keyword": "mars surface panorama perseverance rover olympus mons real photo"
+  }
+]

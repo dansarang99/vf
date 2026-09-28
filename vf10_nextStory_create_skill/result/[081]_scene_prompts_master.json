@@ -1,0 +1,1549 @@
+[
+  {
+    "scene_id": 1,
+    "start": 2.0,
+    "duration": 9.5,
+    "character": "해설",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "지상 관제 및 발사 카운트다운",
+    "location": "나로우주센터 종합관제실 (KASA Mission Control)",
+    "dialogue": "서기 2032년 10월, 전라남도 고흥 나로우주센터. 한반도의 하늘 아래 인류 역사를 바꿀 거대한 불꽃이 숨을 죽이고 있습니다.",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Futuristic high-tech Naro Space Center mission control center, massive curved holographic multi-screen wall displaying Earth-Moon trajectory orbits, tiers of flight controller workstations with glowing blue and teal telemetry monitors, modern architectural acoustic panels, cinematic volumetric lighting, 8k Unreal Engine 5 aesthetic --ar 16:9, character acting: portraying '서기 2032년 10월, 전라남도 고흥 나로우주센터. ...', Extreme wide master establishing shot, anamorphic cinematic lens, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Slow majestic forward dolly zoom with subtle cosmic star drift",
+      "narration_script": "[해설] 서기 2032년 10월, 전라남도 고흥 나로우주센터. 한반도의 하늘 아래 인류 역사를 바꿀 거대한 불꽃이 숨을 죽이고 있습니다.",
+      "subtitle_text": "서기 2032년 10월, 전라남도 고흥 나로우주센터. 한반도의 하늘 아래 인류 역사를 바꿀 거대한 불꽃이 숨을 죽이고 있습니다.",
+      "sound_design": "Ambience: High tension, professional precision, patriotic technological grandeur | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 2,
+    "start": 12.5,
+    "duration": 10.2,
+    "character": "해설",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "지상 관제 및 발사 카운트다운",
+    "location": "나로우주센터 종합관제실 (KASA Mission Control)",
+    "dialogue": "1편에서 350명의 민항기를 기적처럼 구출했던 전설의 에이스 파일럿 박준서. 이제 그는 대한민국 제1호 심우주 유인 사령관이 되어 조종간을 잡았습니다.",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Futuristic high-tech Naro Space Center mission control center, massive curved holographic multi-screen wall displaying Earth-Moon trajectory orbits, tiers of flight controller workstations with glowing blue and teal telemetry monitors, modern architectural acoustic panels, cinematic volumetric lighting, 8k Unreal Engine 5 aesthetic --ar 16:9, character acting: portraying '1편에서 350명의 민항기를 기적처럼 구출했던 전설의 ...', Extreme wide master establishing shot, anamorphic cinematic lens, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Slow majestic forward dolly zoom with subtle cosmic star drift",
+      "narration_script": "[해설] 1편에서 350명의 민항기를 기적처럼 구출했던 전설의 에이스 파일럿 박준서. 이제 그는 대한민국 제1호 심우주 유인 사령관이 되어 조종간을 잡았습니다.",
+      "subtitle_text": "1편에서 350명의 민항기를 기적처럼 구출했던 전설의 에이스 파일럿 박준서. 이제 그는 대한민국 제1호 심우주 유인 사령관이 되어 조종간을 잡았습니다.",
+      "sound_design": "Ambience: High tension, professional precision, patriotic technological grandeur | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 3,
+    "start": 23.7,
+    "duration": 7.8,
+    "character": "최영목",
+    "character_role": "수석 우주추진 엔지니어 박사",
+    "stage": "지상 관제 및 발사 카운트다운",
+    "location": "나로우주센터 종합관제실 (KASA Mission Control)",
+    "dialogue": "준서 사령관, 들리나? 대한민국 우주항공청의 모든 운명이 자네 어깨에 걸려 있네. 5천만 국민이 자네를 지켜보고 있어.",
+    "tracks": {
+      "image_prompt": "Dr. Choi Young-mok senior Korean space propulsion scientist, 50s intellectual male, thin glasses, high-tech white laboratory coat, glowing fusion engine diagnostic background, Futuristic high-tech Naro Space Center mission control center, massive curved holographic multi-screen wall displaying Earth-Moon trajectory orbits, tiers of flight controller workstations with glowing blue and teal telemetry monitors, modern architectural acoustic panels, cinematic volumetric lighting, 8k Unreal Engine 5 aesthetic --ar 16:9, character acting: portraying '준서 사령관, 들리나? 대한민국 우주항공청의 모든 운명...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[최영목] 준서 사령관, 들리나? 대한민국 우주항공청의 모든 운명이 자네 어깨에 걸려 있네. 5천만 국민이 자네를 지켜보고 있어.",
+      "subtitle_text": "준서 사령관, 들리나? 대한민국 우주항공청의 모든 운명이 자네 어깨에 걸려 있네. 5천만 국민이 자네를 지켜보고 있어.",
+      "sound_design": "Ambience: High tension, professional precision, patriotic technological grandeur | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 4,
+    "start": 32.5,
+    "duration": 8.5,
+    "character": "박준서",
+    "character_role": "주인공 / 심우주 순양함 천명호 함장",
+    "stage": "지상 관제 및 발사 카운트다운",
+    "location": "나로우주센터 종합관제실 (KASA Mission Control)",
+    "dialogue": "청장님, 조종간을 잡은 순간부터 두려움은 없습니다. 우리 손으로 만든 차세대 발사체와 착륙선, 반드시 달 남극에 태극기를 꽂겠습니다.",
+    "tracks": {
+      "image_prompt": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting, Futuristic high-tech Naro Space Center mission control center, massive curved holographic multi-screen wall displaying Earth-Moon trajectory orbits, tiers of flight controller workstations with glowing blue and teal telemetry monitors, modern architectural acoustic panels, cinematic volumetric lighting, 8k Unreal Engine 5 aesthetic --ar 16:9, character acting: portraying '청장님, 조종간을 잡은 순간부터 두려움은 없습니다. 우...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[박준서] 청장님, 조종간을 잡은 순간부터 두려움은 없습니다. 우리 손으로 만든 차세대 발사체와 착륙선, 반드시 달 남극에 태극기를 꽂겠습니다.",
+      "subtitle_text": "청장님, 조종간을 잡은 순간부터 두려움은 없습니다. 우리 손으로 만든 차세대 발사체와 착륙선, 반드시 달 남극에 태극기를 꽂겠습니다.",
+      "sound_design": "Ambience: High tension, professional precision, patriotic technological grandeur | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 5,
+    "start": 42.0,
+    "duration": 9.0,
+    "character": "어머니",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "지상 관제 및 발사 카운트다운",
+    "location": "나로우주센터 종합관제실 (KASA Mission Control)",
+    "dialogue": "준서야... 비행기 탈 때도 매일 가슴 졸였는데... 저 차가운 우주까지 가야겠니? 밥 거르지 말고, 꼭 살아서 돌아와야 해...",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Futuristic high-tech Naro Space Center mission control center, massive curved holographic multi-screen wall displaying Earth-Moon trajectory orbits, tiers of flight controller workstations with glowing blue and teal telemetry monitors, modern architectural acoustic panels, cinematic volumetric lighting, 8k Unreal Engine 5 aesthetic --ar 16:9, character acting: portraying '준서야... 비행기 탈 때도 매일 가슴 졸였는데... ...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[어머니] 준서야... 비행기 탈 때도 매일 가슴 졸였는데... 저 차가운 우주까지 가야겠니? 밥 거르지 말고, 꼭 살아서 돌아와야 해...",
+      "subtitle_text": "준서야... 비행기 탈 때도 매일 가슴 졸였는데... 저 차가운 우주까지 가야겠니? 밥 거르지 말고, 꼭 살아서 돌아와야 해...",
+      "sound_design": "Ambience: High tension, professional precision, patriotic technological grandeur | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 6,
+    "start": 52.0,
+    "duration": 7.2,
+    "character": "박준서",
+    "character_role": "주인공 / 심우주 순양함 천명호 함장",
+    "stage": "지상 관제 및 발사 카운트다운",
+    "location": "나로우주센터 종합관제실 (KASA Mission Control)",
+    "dialogue": "어머니, 걱정하지 마세요. 38만 킬로미터 밖에서도 어머니 목소리 잊지 않겠습니다. 꼭 완수하고 돌아오겠습니다.",
+    "tracks": {
+      "image_prompt": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting, Futuristic high-tech Naro Space Center mission control center, massive curved holographic multi-screen wall displaying Earth-Moon trajectory orbits, tiers of flight controller workstations with glowing blue and teal telemetry monitors, modern architectural acoustic panels, cinematic volumetric lighting, 8k Unreal Engine 5 aesthetic --ar 16:9, character acting: portraying '어머니, 걱정하지 마세요. 38만 킬로미터 밖에서도 어...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[박준서] 어머니, 걱정하지 마세요. 38만 킬로미터 밖에서도 어머니 목소리 잊지 않겠습니다. 꼭 완수하고 돌아오겠습니다.",
+      "subtitle_text": "어머니, 걱정하지 마세요. 38만 킬로미터 밖에서도 어머니 목소리 잊지 않겠습니다. 꼭 완수하고 돌아오겠습니다.",
+      "sound_design": "Ambience: High tension, professional precision, patriotic technological grandeur | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 7,
+    "start": 60.2,
+    "duration": 8.0,
+    "character": "김태훈",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "지상 관제 및 발사 카운트다운",
+    "location": "나로우주센터 종합관제실 (KASA Mission Control)",
+    "dialogue": "야, 박준서! 사관학교 시절부터 폼이란 폼은 다 잡더니, 결국 달나라 1호 승객이 되냐? 선물로 월석 예쁜 거 하나 주워 와라!",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Futuristic high-tech Naro Space Center mission control center, massive curved holographic multi-screen wall displaying Earth-Moon trajectory orbits, tiers of flight controller workstations with glowing blue and teal telemetry monitors, modern architectural acoustic panels, cinematic volumetric lighting, 8k Unreal Engine 5 aesthetic --ar 16:9, character acting: portraying '야, 박준서! 사관학교 시절부터 폼이란 폼은 다 잡더니...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[김태훈] 야, 박준서! 사관학교 시절부터 폼이란 폼은 다 잡더니, 결국 달나라 1호 승객이 되냐? 선물로 월석 예쁜 거 하나 주워 와라!",
+      "subtitle_text": "야, 박준서! 사관학교 시절부터 폼이란 폼은 다 잡더니, 결국 달나라 1호 승객이 되냐? 선물로 월석 예쁜 거 하나 주워 와라!",
+      "sound_design": "Ambience: High tension, professional precision, patriotic technological grandeur | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 8,
+    "start": 69.2,
+    "duration": 7.5,
+    "character": "박준서",
+    "character_role": "주인공 / 심우주 순양함 천명호 함장",
+    "stage": "지상 관제 및 발사 카운트다운",
+    "location": "나로우주센터 종합관제실 (KASA Mission Control)",
+    "dialogue": "김태훈 소령, 궤도 사령선에서 딴생각 말고 원격 텔레메트리나 똑바로 감시해라. 네 백업 비행 실력 믿고 출발한다.",
+    "tracks": {
+      "image_prompt": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting, Futuristic high-tech Naro Space Center mission control center, massive curved holographic multi-screen wall displaying Earth-Moon trajectory orbits, tiers of flight controller workstations with glowing blue and teal telemetry monitors, modern architectural acoustic panels, cinematic volumetric lighting, 8k Unreal Engine 5 aesthetic --ar 16:9, character acting: portraying '김태훈 소령, 궤도 사령선에서 딴생각 말고 원격 텔레메...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[박준서] 김태훈 소령, 궤도 사령선에서 딴생각 말고 원격 텔레메트리나 똑바로 감시해라. 네 백업 비행 실력 믿고 출발한다.",
+      "subtitle_text": "김태훈 소령, 궤도 사령선에서 딴생각 말고 원격 텔레메트리나 똑바로 감시해라. 네 백업 비행 실력 믿고 출발한다.",
+      "sound_design": "Ambience: High tension, professional precision, patriotic technological grandeur | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 9,
+    "start": 77.7,
+    "duration": 6.8,
+    "character": "민재",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "지상 관제 및 발사 카운트다운",
+    "location": "나로우주센터 종합관제실 (KASA Mission Control)",
+    "dialogue": "엄마! TV에 박준서 사령관 아저씨 나왔어! 진짜 멋있다! 나도 어른 되면 우주선 타고 달에 갈 거야!",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Futuristic high-tech Naro Space Center mission control center, massive curved holographic multi-screen wall displaying Earth-Moon trajectory orbits, tiers of flight controller workstations with glowing blue and teal telemetry monitors, modern architectural acoustic panels, cinematic volumetric lighting, 8k Unreal Engine 5 aesthetic --ar 16:9, character acting: portraying '엄마! TV에 박준서 사령관 아저씨 나왔어! 진짜 멋있...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[민재] 엄마! TV에 박준서 사령관 아저씨 나왔어! 진짜 멋있다! 나도 어른 되면 우주선 타고 달에 갈 거야!",
+      "subtitle_text": "엄마! TV에 박준서 사령관 아저씨 나왔어! 진짜 멋있다! 나도 어른 되면 우주선 타고 달에 갈 거야!",
+      "sound_design": "Ambience: High tension, professional precision, patriotic technological grandeur | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 10,
+    "start": 85.5,
+    "duration": 8.2,
+    "character": "윤선아",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "지상 관제 및 발사 카운트다운",
+    "location": "나로우주센터 종합관제실 (KASA Mission Control)",
+    "dialogue": "사령관님, 차세대 발사체 KSLV-3 1단 100톤급 메탄 엔진 5기, 진공 기밀 및 산화제 충전 완료되었습니다. 압력 완벽합니다.",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Futuristic high-tech Naro Space Center mission control center, massive curved holographic multi-screen wall displaying Earth-Moon trajectory orbits, tiers of flight controller workstations with glowing blue and teal telemetry monitors, modern architectural acoustic panels, cinematic volumetric lighting, 8k Unreal Engine 5 aesthetic --ar 16:9, character acting: portraying '사령관님, 차세대 발사체 KSLV-3 1단 100톤급 ...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[윤선아] 사령관님, 차세대 발사체 KSLV-3 1단 100톤급 메탄 엔진 5기, 진공 기밀 및 산화제 충전 완료되었습니다. 압력 완벽합니다.",
+      "subtitle_text": "사령관님, 차세대 발사체 KSLV-3 1단 100톤급 메탄 엔진 5기, 진공 기밀 및 산화제 충전 완료되었습니다. 압력 완벽합니다.",
+      "sound_design": "Ambience: High tension, professional precision, patriotic technological grandeur | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 11,
+    "start": 94.7,
+    "duration": 7.6,
+    "character": "강수연",
+    "character_role": "지상관제사령관 / 나로우주센터 총괄 디렉터",
+    "stage": "지상 관제 및 발사 카운트다운",
+    "location": "나로우주센터 종합관제실 (KASA Mission Control)",
+    "dialogue": "여기는 사천 KASA 심우주관제센터. 고흥 기상 양호, 윈드시어 정상 범위. 카운트다운 자동 시퀀스로 전환합니다.",
+    "tracks": {
+      "image_prompt": "Kang Soo-yeon Korean female flight director, 40s elegant confident Asian woman, dark blazer, communication headset, command room holographic backdrop, Futuristic high-tech Naro Space Center mission control center, massive curved holographic multi-screen wall displaying Earth-Moon trajectory orbits, tiers of flight controller workstations with glowing blue and teal telemetry monitors, modern architectural acoustic panels, cinematic volumetric lighting, 8k Unreal Engine 5 aesthetic --ar 16:9, character acting: portraying '여기는 사천 KASA 심우주관제센터. 고흥 기상 양호,...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[강수연] 여기는 사천 KASA 심우주관제센터. 고흥 기상 양호, 윈드시어 정상 범위. 카운트다운 자동 시퀀스로 전환합니다.",
+      "subtitle_text": "여기는 사천 KASA 심우주관제센터. 고흥 기상 양호, 윈드시어 정상 범위. 카운트다운 자동 시퀀스로 전환합니다.",
+      "sound_design": "Ambience: High tension, professional precision, patriotic technological grandeur | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 12,
+    "start": 103.3,
+    "duration": 6.5,
+    "character": "세종",
+    "character_role": "천명호 중앙 양자 AI 시스템",
+    "stage": "지상 관제 및 발사 카운트다운",
+    "location": "나로우주센터 종합관제실 (KASA Mission Control)",
+    "dialogue": "시스템 점검 완료. 발사대 고정 장치 해제 10초 전. 텐, 나인, 에잇, 세븐, 식스...",
+    "tracks": {
+      "image_prompt": "Quantum AI Sejong avatar, ethereal floating cyan-blue holographic orb with intricate fractal geometry and subtle Korean celestial glyphs, glowing digital particles, Futuristic high-tech Naro Space Center mission control center, massive curved holographic multi-screen wall displaying Earth-Moon trajectory orbits, tiers of flight controller workstations with glowing blue and teal telemetry monitors, modern architectural acoustic panels, cinematic volumetric lighting, 8k Unreal Engine 5 aesthetic --ar 16:9, character acting: portraying '시스템 점검 완료. 발사대 고정 장치 해제 10초 전....', Macro shot of luminous holographic quantum core orb, particle refraction, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Smooth 360-degree rotation around glowing holographic lattice",
+      "narration_script": "[세종] 시스템 점검 완료. 발사대 고정 장치 해제 10초 전. 텐, 나인, 에잇, 세븐, 식스...",
+      "subtitle_text": "시스템 점검 완료. 발사대 고정 장치 해제 10초 전. 텐, 나인, 에잇, 세븐, 식스...",
+      "sound_design": "Ambience: High tension, professional precision, patriotic technological grandeur | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 13,
+    "start": 110.8,
+    "duration": 4.5,
+    "character": "세종",
+    "character_role": "천명호 중앙 양자 AI 시스템",
+    "stage": "지상 관제 및 발사 카운트다운",
+    "location": "나로우주센터 종합관제실 (KASA Mission Control)",
+    "dialogue": "파이브, 포, 쓰리, 투, 원. 메인 엔진 점화!",
+    "tracks": {
+      "image_prompt": "Quantum AI Sejong avatar, ethereal floating cyan-blue holographic orb with intricate fractal geometry and subtle Korean celestial glyphs, glowing digital particles, Futuristic high-tech Naro Space Center mission control center, massive curved holographic multi-screen wall displaying Earth-Moon trajectory orbits, tiers of flight controller workstations with glowing blue and teal telemetry monitors, modern architectural acoustic panels, cinematic volumetric lighting, 8k Unreal Engine 5 aesthetic --ar 16:9, character acting: portraying '파이브, 포, 쓰리, 투, 원. 메인 엔진 점화!...', Macro shot of luminous holographic quantum core orb, particle refraction, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Smooth 360-degree rotation around glowing holographic lattice",
+      "narration_script": "[세종] 파이브, 포, 쓰리, 투, 원. 메인 엔진 점화!",
+      "subtitle_text": "파이브, 포, 쓰리, 투, 원. 메인 엔진 점화!",
+      "sound_design": "Ambience: High tension, professional precision, patriotic technological grandeur | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 14,
+    "start": 116.3,
+    "duration": 9.8,
+    "character": "해설",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "누리호-V 발사 및 1단 분리",
+    "location": "누리호-V 중형 발사대 (Nuri-V Heavy Launchpad)",
+    "dialogue": "순간, 고흥의 대지가 진동하며 500톤급 메탄 엔진이 백열의 화염을 토해냅니다. 대한민국 우주선 아리온 1호가 중력을 찢고 솟구칩니다!",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Gargantuan Korean heavy orbital rocket Nuri-V standing towering on coastal launchpad at dawn, cryogenic oxygen vapor plumes drifting across steel gantry towers, ocean waves crashing against Goheung sea cliffs in background, cinematic golden hour low-angle shot --ar 16:9, character acting: portraying '순간, 고흥의 대지가 진동하며 500톤급 메탄 엔진이 ...', Extreme wide master establishing shot, anamorphic cinematic lens, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Slow majestic forward dolly zoom with subtle cosmic star drift",
+      "narration_script": "[해설] 순간, 고흥의 대지가 진동하며 500톤급 메탄 엔진이 백열의 화염을 토해냅니다. 대한민국 우주선 아리온 1호가 중력을 찢고 솟구칩니다!",
+      "subtitle_text": "순간, 고흥의 대지가 진동하며 500톤급 메탄 엔진이 백열의 화염을 토해냅니다. 대한민국 우주선 아리온 1호가 중력을 찢고 솟구칩니다!",
+      "sound_design": "Ambience: Monumental awe, raw mechanical power, dawn of exploration | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 15,
+    "start": 127.1,
+    "duration": 6.4,
+    "character": "박준서",
+    "character_role": "주인공 / 심우주 순양함 천명호 함장",
+    "stage": "누리호-V 발사 및 1단 분리",
+    "location": "누리호-V 중형 발사대 (Nuri-V Heavy Launchpad)",
+    "dialogue": "지상 관제실, 아리온 1호 이륙 정상! 기체 진동 허용치 이내, 가속도 3.2G 정상 진입!",
+    "tracks": {
+      "image_prompt": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting, Gargantuan Korean heavy orbital rocket Nuri-V standing towering on coastal launchpad at dawn, cryogenic oxygen vapor plumes drifting across steel gantry towers, ocean waves crashing against Goheung sea cliffs in background, cinematic golden hour low-angle shot --ar 16:9, character acting: portraying '지상 관제실, 아리온 1호 이륙 정상! 기체 진동 허용...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[박준서] 지상 관제실, 아리온 1호 이륙 정상! 기체 진동 허용치 이내, 가속도 3.2G 정상 진입!",
+      "subtitle_text": "지상 관제실, 아리온 1호 이륙 정상! 기체 진동 허용치 이내, 가속도 3.2G 정상 진입!",
+      "sound_design": "Ambience: Monumental awe, raw mechanical power, dawn of exploration | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 16,
+    "start": 134.5,
+    "duration": 6.8,
+    "character": "강수연",
+    "character_role": "지상관제사령관 / 나로우주센터 총괄 디렉터",
+    "stage": "누리호-V 발사 및 1단 분리",
+    "location": "누리호-V 중형 발사대 (Nuri-V Heavy Launchpad)",
+    "dialogue": "아리온, 궤적 정확합니다. 음속 돌파 확인, 맥스큐(Max-Q) 최대 공력 압력 구간 통과 중!",
+    "tracks": {
+      "image_prompt": "Kang Soo-yeon Korean female flight director, 40s elegant confident Asian woman, dark blazer, communication headset, command room holographic backdrop, Gargantuan Korean heavy orbital rocket Nuri-V standing towering on coastal launchpad at dawn, cryogenic oxygen vapor plumes drifting across steel gantry towers, ocean waves crashing against Goheung sea cliffs in background, cinematic golden hour low-angle shot --ar 16:9, character acting: portraying '아리온, 궤적 정확합니다. 음속 돌파 확인, 맥스큐(M...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[강수연] 아리온, 궤적 정확합니다. 음속 돌파 확인, 맥스큐(Max-Q) 최대 공력 압력 구간 통과 중!",
+      "subtitle_text": "아리온, 궤적 정확합니다. 음속 돌파 확인, 맥스큐(Max-Q) 최대 공력 압력 구간 통과 중!",
+      "sound_design": "Ambience: Monumental awe, raw mechanical power, dawn of exploration | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 17,
+    "start": 142.3,
+    "duration": 5.5,
+    "character": "윤선아",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "누리호-V 발사 및 1단 분리",
+    "location": "누리호-V 중형 발사대 (Nuri-V Heavy Launchpad)",
+    "dialogue": "고도 60킬로미터 도달! 1단 엔진 연소 종료, 1단 분리 스퀴브 기폭!",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Gargantuan Korean heavy orbital rocket Nuri-V standing towering on coastal launchpad at dawn, cryogenic oxygen vapor plumes drifting across steel gantry towers, ocean waves crashing against Goheung sea cliffs in background, cinematic golden hour low-angle shot --ar 16:9, character acting: portraying '고도 60킬로미터 도달! 1단 엔진 연소 종료, 1단 ...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[윤선아] 고도 60킬로미터 도달! 1단 엔진 연소 종료, 1단 분리 스퀴브 기폭!",
+      "subtitle_text": "고도 60킬로미터 도달! 1단 엔진 연소 종료, 1단 분리 스퀴브 기폭!",
+      "sound_design": "Ambience: Monumental awe, raw mechanical power, dawn of exploration | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 18,
+    "start": 148.8,
+    "duration": 5.2,
+    "character": "세종",
+    "character_role": "천명호 중앙 양자 AI 시스템",
+    "stage": "누리호-V 발사 및 1단 분리",
+    "location": "누리호-V 중형 발사대 (Nuri-V Heavy Launchpad)",
+    "dialogue": "경고. 1단 분리 충격으로 인한 페어링 힌지 미세 진동 0.4밀리미터 감지.",
+    "tracks": {
+      "image_prompt": "Quantum AI Sejong avatar, ethereal floating cyan-blue holographic orb with intricate fractal geometry and subtle Korean celestial glyphs, glowing digital particles, Gargantuan Korean heavy orbital rocket Nuri-V standing towering on coastal launchpad at dawn, cryogenic oxygen vapor plumes drifting across steel gantry towers, ocean waves crashing against Goheung sea cliffs in background, cinematic golden hour low-angle shot --ar 16:9, character acting: portraying '경고. 1단 분리 충격으로 인한 페어링 힌지 미세 진동...', Macro shot of luminous holographic quantum core orb, particle refraction, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Smooth 360-degree rotation around glowing holographic lattice",
+      "narration_script": "[세종] 경고. 1단 분리 충격으로 인한 페어링 힌지 미세 진동 0.4밀리미터 감지.",
+      "subtitle_text": "경고. 1단 분리 충격으로 인한 페어링 힌지 미세 진동 0.4밀리미터 감지.",
+      "sound_design": "Ambience: Monumental awe, raw mechanical power, dawn of exploration | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 19,
+    "start": 155.0,
+    "duration": 7.0,
+    "character": "빅터",
+    "character_role": "ISS 및 아르테미스 연합군 국제 교신관",
+    "stage": "누리호-V 발사 및 1단 분리",
+    "location": "누리호-V 중형 발사대 (Nuri-V Heavy Launchpad)",
+    "dialogue": "저 한국 녀석들, 자립 엔진으로 첫 시도에 성공할 리가 없어. 맥스큐 통과 직후 압력 밸브가 터질 텐데...",
+    "tracks": {
+      "image_prompt": "Victor international liaison officer, Caucasian male late 30s, olive-gray space flight suit with international mission patches, orbital space station cupola window view, Gargantuan Korean heavy orbital rocket Nuri-V standing towering on coastal launchpad at dawn, cryogenic oxygen vapor plumes drifting across steel gantry towers, ocean waves crashing against Goheung sea cliffs in background, cinematic golden hour low-angle shot --ar 16:9, character acting: portraying '저 한국 녀석들, 자립 엔진으로 첫 시도에 성공할 리가...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[빅터] 저 한국 녀석들, 자립 엔진으로 첫 시도에 성공할 리가 없어. 맥스큐 통과 직후 압력 밸브가 터질 텐데...",
+      "subtitle_text": "저 한국 녀석들, 자립 엔진으로 첫 시도에 성공할 리가 없어. 맥스큐 통과 직후 압력 밸브가 터질 텐데...",
+      "sound_design": "Ambience: Monumental awe, raw mechanical power, dawn of exploration | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 20,
+    "start": 163.0,
+    "duration": 6.0,
+    "character": "박준서",
+    "character_role": "주인공 / 심우주 순양함 천명호 함장",
+    "stage": "누리호-V 발사 및 1단 분리",
+    "location": "누리호-V 중형 발사대 (Nuri-V Heavy Launchpad)",
+    "dialogue": "동요하지 마라. 수동 댐퍼 가동, 진동 상쇄 완료. 페어링 정상 분리 확인!",
+    "tracks": {
+      "image_prompt": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting, Gargantuan Korean heavy orbital rocket Nuri-V standing towering on coastal launchpad at dawn, cryogenic oxygen vapor plumes drifting across steel gantry towers, ocean waves crashing against Goheung sea cliffs in background, cinematic golden hour low-angle shot --ar 16:9, character acting: portraying '동요하지 마라. 수동 댐퍼 가동, 진동 상쇄 완료. 페...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[박준서] 동요하지 마라. 수동 댐퍼 가동, 진동 상쇄 완료. 페어링 정상 분리 확인!",
+      "subtitle_text": "동요하지 마라. 수동 댐퍼 가동, 진동 상쇄 완료. 페어링 정상 분리 확인!",
+      "sound_design": "Ambience: Monumental awe, raw mechanical power, dawn of exploration | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 21,
+    "start": 170.0,
+    "duration": 7.8,
+    "character": "강수연",
+    "character_role": "지상관제사령관 / 나로우주센터 총괄 디렉터",
+    "stage": "지구 저궤도 안착 및 전함 시스템 점검",
+    "location": "심우주 순양전함 '천명호' 메인 브릿지",
+    "dialogue": "2단 엔진 점화 완벽합니다! 고도 200킬로미터, 대한민국 아리온 1호, 지구 저궤도에 성공적으로 진입했습니다!",
+    "tracks": {
+      "image_prompt": "Kang Soo-yeon Korean female flight director, 40s elegant confident Asian woman, dark blazer, communication headset, command room holographic backdrop, Command bridge of deep-space explorer ship Cheonmyeong-ho, panoramic curved transparent composite viewport showing Earth curvature and glittering starfield, central quantum AI holographic pedestal glowing sapphire blue, ergonomic captain seat, minimalist Korean naval sci-fi aesthetics --ar 16:9, character acting: portraying '2단 엔진 점화 완벽합니다! 고도 200킬로미터, 대한...', Intense dynamic close-up portrait, Dutch angle, dramatic red rim light, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Rapid camera push-in focusing sharply on character eyes",
+      "narration_script": "[강수연] 2단 엔진 점화 완벽합니다! 고도 200킬로미터, 대한민국 아리온 1호, 지구 저궤도에 성공적으로 진입했습니다!",
+      "subtitle_text": "2단 엔진 점화 완벽합니다! 고도 200킬로미터, 대한민국 아리온 1호, 지구 저궤도에 성공적으로 진입했습니다!",
+      "sound_design": "Ambience: Futuristic frontier, quiet resolve, cutting-edge exploration | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 22,
+    "start": 178.8,
+    "duration": 7.5,
+    "character": "최영목",
+    "character_role": "수석 우주추진 엔지니어 박사",
+    "stage": "지구 저궤도 안착 및 전함 시스템 점검",
+    "location": "심우주 순양전함 '천명호' 메인 브릿지",
+    "dialogue": "해냈다! 전 직원 기립 박수! 하지만 진짜 싸움은 이제부터다. 38만 킬로미터의 심우주가 기다리고 있다.",
+    "tracks": {
+      "image_prompt": "Dr. Choi Young-mok senior Korean space propulsion scientist, 50s intellectual male, thin glasses, high-tech white laboratory coat, glowing fusion engine diagnostic background, Command bridge of deep-space explorer ship Cheonmyeong-ho, panoramic curved transparent composite viewport showing Earth curvature and glittering starfield, central quantum AI holographic pedestal glowing sapphire blue, ergonomic captain seat, minimalist Korean naval sci-fi aesthetics --ar 16:9, character acting: portraying '해냈다! 전 직원 기립 박수! 하지만 진짜 싸움은 이제...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[최영목] 해냈다! 전 직원 기립 박수! 하지만 진짜 싸움은 이제부터다. 38만 킬로미터의 심우주가 기다리고 있다.",
+      "subtitle_text": "해냈다! 전 직원 기립 박수! 하지만 진짜 싸움은 이제부터다. 38만 킬로미터의 심우주가 기다리고 있다.",
+      "sound_design": "Ambience: Futuristic frontier, quiet resolve, cutting-edge exploration | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 23,
+    "start": 187.3,
+    "duration": 8.0,
+    "character": "해설",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "지구 저궤도 안착 및 전함 시스템 점검",
+    "location": "심우주 순양전함 '천명호' 메인 브릿지",
+    "dialogue": "지구의 푸른 능선이 창밖으로 펼쳐집니다. 고요한 침묵 속에서 인류의 새로운 역사가 막을 올리고 있었습니다.",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Command bridge of deep-space explorer ship Cheonmyeong-ho, panoramic curved transparent composite viewport showing Earth curvature and glittering starfield, central quantum AI holographic pedestal glowing sapphire blue, ergonomic captain seat, minimalist Korean naval sci-fi aesthetics --ar 16:9, character acting: portraying '지구의 푸른 능선이 창밖으로 펼쳐집니다. 고요한 침묵 ...', Extreme wide master establishing shot, anamorphic cinematic lens, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Slow majestic forward dolly zoom with subtle cosmic star drift",
+      "narration_script": "[해설] 지구의 푸른 능선이 창밖으로 펼쳐집니다. 고요한 침묵 속에서 인류의 새로운 역사가 막을 올리고 있었습니다.",
+      "subtitle_text": "지구의 푸른 능선이 창밖으로 펼쳐집니다. 고요한 침묵 속에서 인류의 새로운 역사가 막을 올리고 있었습니다.",
+      "sound_design": "Ambience: Futuristic frontier, quiet resolve, cutting-edge exploration | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 24,
+    "start": 196.3,
+    "duration": 9.0,
+    "character": "해설",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "지구 저궤도 안착 및 전함 시스템 점검",
+    "location": "심우주 순양전함 '천명호' 메인 브릿지",
+    "dialogue": "지구 궤도를 두 바퀴 선회한 아리온 1호는 이제 지구의 중력권을 벗어나는 TLI, 즉 달 전이 궤도 투입 분사를 준비합니다.",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Command bridge of deep-space explorer ship Cheonmyeong-ho, panoramic curved transparent composite viewport showing Earth curvature and glittering starfield, central quantum AI holographic pedestal glowing sapphire blue, ergonomic captain seat, minimalist Korean naval sci-fi aesthetics --ar 16:9, character acting: portraying '지구 궤도를 두 바퀴 선회한 아리온 1호는 이제 지구의...', Extreme wide master establishing shot, anamorphic cinematic lens, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Slow majestic forward dolly zoom with subtle cosmic star drift",
+      "narration_script": "[해설] 지구 궤도를 두 바퀴 선회한 아리온 1호는 이제 지구의 중력권을 벗어나는 TLI, 즉 달 전이 궤도 투입 분사를 준비합니다.",
+      "subtitle_text": "지구 궤도를 두 바퀴 선회한 아리온 1호는 이제 지구의 중력권을 벗어나는 TLI, 즉 달 전이 궤도 투입 분사를 준비합니다.",
+      "sound_design": "Ambience: Futuristic frontier, quiet resolve, cutting-edge exploration | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 25,
+    "start": 206.3,
+    "duration": 8.5,
+    "character": "윤선아",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "지구 저궤도 안착 및 전함 시스템 점검",
+    "location": "심우주 순양전함 '천명호' 메인 브릿지",
+    "dialogue": "사령관님, 3단 킥스테이지 엔진 재점화 시점입니다. 목표 델타-V는 초속 3.15킬로미터. 오차 0.01% 이내여야 합니다.",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Command bridge of deep-space explorer ship Cheonmyeong-ho, panoramic curved transparent composite viewport showing Earth curvature and glittering starfield, central quantum AI holographic pedestal glowing sapphire blue, ergonomic captain seat, minimalist Korean naval sci-fi aesthetics --ar 16:9, character acting: portraying '사령관님, 3단 킥스테이지 엔진 재점화 시점입니다. 목...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[윤선아] 사령관님, 3단 킥스테이지 엔진 재점화 시점입니다. 목표 델타-V는 초속 3.15킬로미터. 오차 0.01% 이내여야 합니다.",
+      "subtitle_text": "사령관님, 3단 킥스테이지 엔진 재점화 시점입니다. 목표 델타-V는 초속 3.15킬로미터. 오차 0.01% 이내여야 합니다.",
+      "sound_design": "Ambience: Futuristic frontier, quiet resolve, cutting-edge exploration | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 26,
+    "start": 215.8,
+    "duration": 4.5,
+    "character": "박준서",
+    "character_role": "주인공 / 심우주 순양함 천명호 함장",
+    "stage": "지구 저궤도 안착 및 전함 시스템 점검",
+    "location": "심우주 순양전함 '천명호' 메인 브릿지",
+    "dialogue": "알겠다, 윤 박사. 킥스테이지 점화 카운트다운 시작.",
+    "tracks": {
+      "image_prompt": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting, Command bridge of deep-space explorer ship Cheonmyeong-ho, panoramic curved transparent composite viewport showing Earth curvature and glittering starfield, central quantum AI holographic pedestal glowing sapphire blue, ergonomic captain seat, minimalist Korean naval sci-fi aesthetics --ar 16:9, character acting: portraying '알겠다, 윤 박사. 킥스테이지 점화 카운트다운 시작....', Intense dynamic close-up portrait, Dutch angle, dramatic red rim light, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Rapid camera push-in focusing sharply on character eyes",
+      "narration_script": "[박준서] 알겠다, 윤 박사. 킥스테이지 점화 카운트다운 시작.",
+      "subtitle_text": "알겠다, 윤 박사. 킥스테이지 점화 카운트다운 시작.",
+      "sound_design": "Ambience: Futuristic frontier, quiet resolve, cutting-edge exploration | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 27,
+    "start": 221.3,
+    "duration": 5.8,
+    "character": "세종",
+    "character_role": "천명호 중앙 양자 AI 시스템",
+    "stage": "지구 저궤도 안착 및 전함 시스템 점검",
+    "location": "심우주 순양전함 '천명호' 메인 브릿지",
+    "dialogue": "3단 엔진 재점화 시작. 추력 100% 정상. 달 궤도 투입 경로 형성 중.",
+    "tracks": {
+      "image_prompt": "Quantum AI Sejong avatar, ethereal floating cyan-blue holographic orb with intricate fractal geometry and subtle Korean celestial glyphs, glowing digital particles, Command bridge of deep-space explorer ship Cheonmyeong-ho, panoramic curved transparent composite viewport showing Earth curvature and glittering starfield, central quantum AI holographic pedestal glowing sapphire blue, ergonomic captain seat, minimalist Korean naval sci-fi aesthetics --ar 16:9, character acting: portraying '3단 엔진 재점화 시작. 추력 100% 정상. 달 궤도...', Macro shot of luminous holographic quantum core orb, particle refraction, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Smooth 360-degree rotation around glowing holographic lattice",
+      "narration_script": "[세종] 3단 엔진 재점화 시작. 추력 100% 정상. 달 궤도 투입 경로 형성 중.",
+      "subtitle_text": "3단 엔진 재점화 시작. 추력 100% 정상. 달 궤도 투입 경로 형성 중.",
+      "sound_design": "Ambience: Futuristic frontier, quiet resolve, cutting-edge exploration | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 28,
+    "start": 228.1,
+    "duration": 7.2,
+    "character": "강수연",
+    "character_role": "지상관제사령관 / 나로우주센터 총괄 디렉터",
+    "stage": "지구 저궤도 안착 및 전함 시스템 점검",
+    "location": "심우주 순양전함 '천명호' 메인 브릿지",
+    "dialogue": "아리온, TLI 정상 진입! 이제 지구 중력을 뿌리치고 달을 향해 시속 3만 9천 킬로미터로 순항합니다.",
+    "tracks": {
+      "image_prompt": "Kang Soo-yeon Korean female flight director, 40s elegant confident Asian woman, dark blazer, communication headset, command room holographic backdrop, Command bridge of deep-space explorer ship Cheonmyeong-ho, panoramic curved transparent composite viewport showing Earth curvature and glittering starfield, central quantum AI holographic pedestal glowing sapphire blue, ergonomic captain seat, minimalist Korean naval sci-fi aesthetics --ar 16:9, character acting: portraying '아리온, TLI 정상 진입! 이제 지구 중력을 뿌리치고...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[강수연] 아리온, TLI 정상 진입! 이제 지구 중력을 뿌리치고 달을 향해 시속 3만 9천 킬로미터로 순항합니다.",
+      "subtitle_text": "아리온, TLI 정상 진입! 이제 지구 중력을 뿌리치고 달을 향해 시속 3만 9천 킬로미터로 순항합니다.",
+      "sound_design": "Ambience: Futuristic frontier, quiet resolve, cutting-edge exploration | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 29,
+    "start": 236.3,
+    "duration": 8.2,
+    "character": "빅터",
+    "character_role": "ISS 및 아르테미스 연합군 국제 교신관",
+    "stage": "지구 저궤도 안착 및 전함 시스템 점검",
+    "location": "심우주 순양전함 '천명호' 메인 브릿지",
+    "dialogue": "흥, 궤도 진입은 운 좋게 성공했군. 하지만 저 앞에는 70년대 냉전 시절 버려진 정지궤도 위성 파편군이 도사리고 있지.",
+    "tracks": {
+      "image_prompt": "Victor international liaison officer, Caucasian male late 30s, olive-gray space flight suit with international mission patches, orbital space station cupola window view, Command bridge of deep-space explorer ship Cheonmyeong-ho, panoramic curved transparent composite viewport showing Earth curvature and glittering starfield, central quantum AI holographic pedestal glowing sapphire blue, ergonomic captain seat, minimalist Korean naval sci-fi aesthetics --ar 16:9, character acting: portraying '흥, 궤도 진입은 운 좋게 성공했군. 하지만 저 앞에는...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[빅터] 흥, 궤도 진입은 운 좋게 성공했군. 하지만 저 앞에는 70년대 냉전 시절 버려진 정지궤도 위성 파편군이 도사리고 있지.",
+      "subtitle_text": "흥, 궤도 진입은 운 좋게 성공했군. 하지만 저 앞에는 70년대 냉전 시절 버려진 정지궤도 위성 파편군이 도사리고 있지.",
+      "sound_design": "Ambience: Futuristic frontier, quiet resolve, cutting-edge exploration | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 30,
+    "start": 245.5,
+    "duration": 7.5,
+    "character": "세종",
+    "character_role": "천명호 중앙 양자 AI 시스템",
+    "stage": "지구 저궤도 안착 및 전함 시스템 점검",
+    "location": "심우주 순양전함 '천명호' 메인 브릿지",
+    "dialogue": "비상 경보! 전방 1,200킬로미터 지점에서 직경 2미터급 미확인 우주 파편체 초속 11킬로미터로 급접근 중!",
+    "tracks": {
+      "image_prompt": "Quantum AI Sejong avatar, ethereal floating cyan-blue holographic orb with intricate fractal geometry and subtle Korean celestial glyphs, glowing digital particles, Command bridge of deep-space explorer ship Cheonmyeong-ho, panoramic curved transparent composite viewport showing Earth curvature and glittering starfield, central quantum AI holographic pedestal glowing sapphire blue, ergonomic captain seat, minimalist Korean naval sci-fi aesthetics --ar 16:9, character acting: portraying '비상 경보! 전방 1,200킬로미터 지점에서 직경 2미...', Macro shot of luminous holographic quantum core orb, particle refraction, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Smooth 360-degree rotation around glowing holographic lattice",
+      "narration_script": "[세종] 비상 경보! 전방 1,200킬로미터 지점에서 직경 2미터급 미확인 우주 파편체 초속 11킬로미터로 급접근 중!",
+      "subtitle_text": "비상 경보! 전방 1,200킬로미터 지점에서 직경 2미터급 미확인 우주 파편체 초속 11킬로미터로 급접근 중!",
+      "sound_design": "Ambience: Futuristic frontier, quiet resolve, cutting-edge exploration | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 31,
+    "start": 254.0,
+    "duration": 7.0,
+    "character": "김태훈",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "뭐라고? 파편 접근 경로가 우리 비행 궤적과 99.8% 일치해! 충돌까지 남은 시간 85초!",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '뭐라고? 파편 접근 경로가 우리 비행 궤적과 99.8%...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[김태훈] 뭐라고? 파편 접근 경로가 우리 비행 궤적과 99.8% 일치해! 충돌까지 남은 시간 85초!",
+      "subtitle_text": "뭐라고? 파편 접근 경로가 우리 비행 궤적과 99.8% 일치해! 충돌까지 남은 시간 85초!",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 32,
+    "start": 262.0,
+    "duration": 8.0,
+    "character": "강수연",
+    "character_role": "지상관제사령관 / 나로우주센터 총괄 디렉터",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "사령관님! 지상 슈퍼컴퓨터 계산 결과로는 주 추진기를 쓰면 착륙선 연료가 고갈되어 달 착륙이 불가능합니다!",
+    "tracks": {
+      "image_prompt": "Kang Soo-yeon Korean female flight director, 40s elegant confident Asian woman, dark blazer, communication headset, command room holographic backdrop, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '사령관님! 지상 슈퍼컴퓨터 계산 결과로는 주 추진기를 ...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[강수연] 사령관님! 지상 슈퍼컴퓨터 계산 결과로는 주 추진기를 쓰면 착륙선 연료가 고갈되어 달 착륙이 불가능합니다!",
+      "subtitle_text": "사령관님! 지상 슈퍼컴퓨터 계산 결과로는 주 추진기를 쓰면 착륙선 연료가 고갈되어 달 착륙이 불가능합니다!",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 33,
+    "start": 271.0,
+    "duration": 6.8,
+    "character": "최영목",
+    "character_role": "수석 우주추진 엔지니어 박사",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "미션을 포기하고 지구 귀환 궤도로 선회해야 하는가? 준서 사령관, 자네의 판단은 뭔가!",
+    "tracks": {
+      "image_prompt": "Dr. Choi Young-mok senior Korean space propulsion scientist, 50s intellectual male, thin glasses, high-tech white laboratory coat, glowing fusion engine diagnostic background, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '미션을 포기하고 지구 귀환 궤도로 선회해야 하는가? 준...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[최영목] 미션을 포기하고 지구 귀환 궤도로 선회해야 하는가? 준서 사령관, 자네의 판단은 뭔가!",
+      "subtitle_text": "미션을 포기하고 지구 귀환 궤도로 선회해야 하는가? 준서 사령관, 자네의 판단은 뭔가!",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 34,
+    "start": 278.8,
+    "duration": 8.5,
+    "character": "박준서",
+    "character_role": "주인공 / 심우주 순양함 천명호 함장",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "돌아가지 않습니다. 주 엔진은 보존합니다. 자세제어 RCS 펄스 스러스터 4번, 7번을 연쇄 편심 분사하겠습니다.",
+    "tracks": {
+      "image_prompt": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '돌아가지 않습니다. 주 엔진은 보존합니다. 자세제어 R...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[박준서] 돌아가지 않습니다. 주 엔진은 보존합니다. 자세제어 RCS 펄스 스러스터 4번, 7번을 연쇄 편심 분사하겠습니다.",
+      "subtitle_text": "돌아가지 않습니다. 주 엔진은 보존합니다. 자세제어 RCS 펄스 스러스터 4번, 7번을 연쇄 편심 분사하겠습니다.",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 35,
+    "start": 288.3,
+    "duration": 6.0,
+    "character": "윤선아",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "편심 분사라니요! 기체가 회전하면서 자이로가 잠길 위험이 있습니다!",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '편심 분사라니요! 기체가 회전하면서 자이로가 잠길 위험...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[윤선아] 편심 분사라니요! 기체가 회전하면서 자이로가 잠길 위험이 있습니다!",
+      "subtitle_text": "편심 분사라니요! 기체가 회전하면서 자이로가 잠길 위험이 있습니다!",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 36,
+    "start": 295.3,
+    "duration": 8.2,
+    "character": "박준서",
+    "character_role": "주인공 / 심우주 순양함 천명호 함장",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "1편에서 엔진 꺼진 여객기도 러더 트림으로 비틀어 세웠습니다. 우주선이라고 다를 것 없습니다. 수동 조종 개시!",
+    "tracks": {
+      "image_prompt": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '1편에서 엔진 꺼진 여객기도 러더 트림으로 비틀어 세웠...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[박준서] 1편에서 엔진 꺼진 여객기도 러더 트림으로 비틀어 세웠습니다. 우주선이라고 다를 것 없습니다. 수동 조종 개시!",
+      "subtitle_text": "1편에서 엔진 꺼진 여객기도 러더 트림으로 비틀어 세웠습니다. 우주선이라고 다를 것 없습니다. 수동 조종 개시!",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 37,
+    "start": 304.5,
+    "duration": 5.5,
+    "character": "세종",
+    "character_role": "천명호 중앙 양자 AI 시스템",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "수동 제어 모드 전환. 충돌 20초 전... 10초 전... 거리 500미터...",
+    "tracks": {
+      "image_prompt": "Quantum AI Sejong avatar, ethereal floating cyan-blue holographic orb with intricate fractal geometry and subtle Korean celestial glyphs, glowing digital particles, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '수동 제어 모드 전환. 충돌 20초 전... 10초 전...', Macro shot of luminous holographic quantum core orb, particle refraction, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Smooth 360-degree rotation around glowing holographic lattice",
+      "narration_script": "[세종] 수동 제어 모드 전환. 충돌 20초 전... 10초 전... 거리 500미터...",
+      "subtitle_text": "수동 제어 모드 전환. 충돌 20초 전... 10초 전... 거리 500미터...",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 38,
+    "start": 311.0,
+    "duration": 9.5,
+    "character": "해설",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "암흑의 심우주에서 박준서 사령관의 손끝이 미세 펄스 밸브를 피아노 건반처럼 두드립니다. 아리온 호의 기수가 12도 급회전합니다.",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '암흑의 심우주에서 박준서 사령관의 손끝이 미세 펄스 밸...', Extreme wide master establishing shot, anamorphic cinematic lens, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Slow majestic forward dolly zoom with subtle cosmic star drift",
+      "narration_script": "[해설] 암흑의 심우주에서 박준서 사령관의 손끝이 미세 펄스 밸브를 피아노 건반처럼 두드립니다. 아리온 호의 기수가 12도 급회전합니다.",
+      "subtitle_text": "암흑의 심우주에서 박준서 사령관의 손끝이 미세 펄스 밸브를 피아노 건반처럼 두드립니다. 아리온 호의 기수가 12도 급회전합니다.",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 39,
+    "start": 321.5,
+    "duration": 6.8,
+    "character": "김태훈",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "지나갔다! 파편이 선체 불과 60미터 옆을 스쳐 지나갔습니다! 선체 손상 제로!",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '지나갔다! 파편이 선체 불과 60미터 옆을 스쳐 지나갔...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[김태훈] 지나갔다! 파편이 선체 불과 60미터 옆을 스쳐 지나갔습니다! 선체 손상 제로!",
+      "subtitle_text": "지나갔다! 파편이 선체 불과 60미터 옆을 스쳐 지나갔습니다! 선체 손상 제로!",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 40,
+    "start": 329.3,
+    "duration": 7.5,
+    "character": "강수연",
+    "character_role": "지상관제사령관 / 나로우주센터 총괄 디렉터",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "해냈어요! 자이로 드리프트 0.02도 이내 복귀 완료! 아리온 호, 기적의 회피 기동에 성공했습니다!",
+    "tracks": {
+      "image_prompt": "Kang Soo-yeon Korean female flight director, 40s elegant confident Asian woman, dark blazer, communication headset, command room holographic backdrop, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '해냈어요! 자이로 드리프트 0.02도 이내 복귀 완료!...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[강수연] 해냈어요! 자이로 드리프트 0.02도 이내 복귀 완료! 아리온 호, 기적의 회피 기동에 성공했습니다!",
+      "subtitle_text": "해냈어요! 자이로 드리프트 0.02도 이내 복귀 완료! 아리온 호, 기적의 회피 기동에 성공했습니다!",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 41,
+    "start": 337.8,
+    "duration": 8.5,
+    "character": "빅터",
+    "character_role": "ISS 및 아르테미스 연합군 국제 교신관",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "도대체 저 사령관은 기계인가? 저 속도에서 인간의 반사 신경으로 펄스 스러스터를 제어해 파편을 피하다니...",
+    "tracks": {
+      "image_prompt": "Victor international liaison officer, Caucasian male late 30s, olive-gray space flight suit with international mission patches, orbital space station cupola window view, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '도대체 저 사령관은 기계인가? 저 속도에서 인간의 반사...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[빅터] 도대체 저 사령관은 기계인가? 저 속도에서 인간의 반사 신경으로 펄스 스러스터를 제어해 파편을 피하다니...",
+      "subtitle_text": "도대체 저 사령관은 기계인가? 저 속도에서 인간의 반사 신경으로 펄스 스러스터를 제어해 파편을 피하다니...",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 42,
+    "start": 347.3,
+    "duration": 5.8,
+    "character": "어머니",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "하느님, 부처님 감사합니다... 준서야, 조금만 더 힘내거라...",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '하느님, 부처님 감사합니다... 준서야, 조금만 더 힘...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[어머니] 하느님, 부처님 감사합니다... 준서야, 조금만 더 힘내거라...",
+      "subtitle_text": "하느님, 부처님 감사합니다... 준서야, 조금만 더 힘내거라...",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 43,
+    "start": 354.1,
+    "duration": 7.0,
+    "character": "박준서",
+    "character_role": "주인공 / 심우주 순양함 천명호 함장",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "지상 관제실, 우리는 안전합니다. 달이 창문 가득 다가오고 있습니다. 다음 단계로 진입합니다.",
+    "tracks": {
+      "image_prompt": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '지상 관제실, 우리는 안전합니다. 달이 창문 가득 다가...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[박준서] 지상 관제실, 우리는 안전합니다. 달이 창문 가득 다가오고 있습니다. 다음 단계로 진입합니다.",
+      "subtitle_text": "지상 관제실, 우리는 안전합니다. 달이 창문 가득 다가오고 있습니다. 다음 단계로 진입합니다.",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 44,
+    "start": 362.1,
+    "duration": 7.5,
+    "character": "해설",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "위기를 극복한 대한민국 우주선은 이제 칠흑 같은 어둠을 뚫고 은빛의 달을 향해 질주합니다.",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '위기를 극복한 대한민국 우주선은 이제 칠흑 같은 어둠을...', Extreme wide master establishing shot, anamorphic cinematic lens, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Slow majestic forward dolly zoom with subtle cosmic star drift",
+      "narration_script": "[해설] 위기를 극복한 대한민국 우주선은 이제 칠흑 같은 어둠을 뚫고 은빛의 달을 향해 질주합니다.",
+      "subtitle_text": "위기를 극복한 대한민국 우주선은 이제 칠흑 같은 어둠을 뚫고 은빛의 달을 향해 질주합니다.",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 45,
+    "start": 370.6,
+    "duration": 8.8,
+    "character": "해설",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "발사 110시간 경과. 아리온 1호는 달 뒷면을 돌아 목표 궤도인 고도 100킬로미터 달 극궤도에 진입했습니다.",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '발사 110시간 경과. 아리온 1호는 달 뒷면을 돌아 ...', Extreme wide master establishing shot, anamorphic cinematic lens, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Slow majestic forward dolly zoom with subtle cosmic star drift",
+      "narration_script": "[해설] 발사 110시간 경과. 아리온 1호는 달 뒷면을 돌아 목표 궤도인 고도 100킬로미터 달 극궤도에 진입했습니다.",
+      "subtitle_text": "발사 110시간 경과. 아리온 1호는 달 뒷면을 돌아 목표 궤도인 고도 100킬로미터 달 극궤도에 진입했습니다.",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 46,
+    "start": 380.4,
+    "duration": 8.0,
+    "character": "강수연",
+    "character_role": "지상관제사령관 / 나로우주센터 총괄 디렉터",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "아리온, 최종 착륙 목표지는 달 남극 섀클턴 크레이터 능선. 지형 경사도 7도 이하의 좁은 고원지대입니다.",
+    "tracks": {
+      "image_prompt": "Kang Soo-yeon Korean female flight director, 40s elegant confident Asian woman, dark blazer, communication headset, command room holographic backdrop, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '아리온, 최종 착륙 목표지는 달 남극 섀클턴 크레이터 ...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[강수연] 아리온, 최종 착륙 목표지는 달 남극 섀클턴 크레이터 능선. 지형 경사도 7도 이하의 좁은 고원지대입니다.",
+      "subtitle_text": "아리온, 최종 착륙 목표지는 달 남극 섀클턴 크레이터 능선. 지형 경사도 7도 이하의 좁은 고원지대입니다.",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 47,
+    "start": 389.4,
+    "duration": 8.5,
+    "character": "최영목",
+    "character_role": "수석 우주추진 엔지니어 박사",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "그곳은 수십억 년간 햇빛이 닿지 않은 영하 230도의 극한지이자, 인류 미래의 보고 헬륨-3와 얼음이 묻힌 곳이다.",
+    "tracks": {
+      "image_prompt": "Dr. Choi Young-mok senior Korean space propulsion scientist, 50s intellectual male, thin glasses, high-tech white laboratory coat, glowing fusion engine diagnostic background, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '그곳은 수십억 년간 햇빛이 닿지 않은 영하 230도의 ...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[최영목] 그곳은 수십억 년간 햇빛이 닿지 않은 영하 230도의 극한지이자, 인류 미래의 보고 헬륨-3와 얼음이 묻힌 곳이다.",
+      "subtitle_text": "그곳은 수십억 년간 햇빛이 닿지 않은 영하 230도의 극한지이자, 인류 미래의 보고 헬륨-3와 얼음이 묻힌 곳이다.",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 48,
+    "start": 398.9,
+    "duration": 6.5,
+    "character": "박준서",
+    "character_role": "주인공 / 심우주 순양함 천명호 함장",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "착륙선 분리 레버 작동. 아리온 하강 모듈, 궤도 사령선과 성공적으로 분리되었습니다.",
+    "tracks": {
+      "image_prompt": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '착륙선 분리 레버 작동. 아리온 하강 모듈, 궤도 사령...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[박준서] 착륙선 분리 레버 작동. 아리온 하강 모듈, 궤도 사령선과 성공적으로 분리되었습니다.",
+      "subtitle_text": "착륙선 분리 레버 작동. 아리온 하강 모듈, 궤도 사령선과 성공적으로 분리되었습니다.",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 49,
+    "start": 406.4,
+    "duration": 6.2,
+    "character": "김태훈",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "준서야, 난 궤도에서 널 지키고 있을게. 꼭 달바닥 딛고 서서 손 흔들어줘라!",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '준서야, 난 궤도에서 널 지키고 있을게. 꼭 달바닥 딛...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[김태훈] 준서야, 난 궤도에서 널 지키고 있을게. 꼭 달바닥 딛고 서서 손 흔들어줘라!",
+      "subtitle_text": "준서야, 난 궤도에서 널 지키고 있을게. 꼭 달바닥 딛고 서서 손 흔들어줘라!",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 50,
+    "start": 413.6,
+    "duration": 6.5,
+    "character": "윤선아",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "하강 엔진 역추진 점화! 고도 15킬로미터에서 3킬로미터로 급감속 진행 중입니다.",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '하강 엔진 역추진 점화! 고도 15킬로미터에서 3킬로미...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[윤선아] 하강 엔진 역추진 점화! 고도 15킬로미터에서 3킬로미터로 급감속 진행 중입니다.",
+      "subtitle_text": "하강 엔진 역추진 점화! 고도 15킬로미터에서 3킬로미터로 급감속 진행 중입니다.",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 51,
+    "start": 421.1,
+    "duration": 5.8,
+    "character": "세종",
+    "character_role": "천명호 중앙 양자 AI 시스템",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "고도 1,000미터. 하강 속도 초속 45미터. 3차원 플래시 라이다 지형 스캔 중.",
+    "tracks": {
+      "image_prompt": "Quantum AI Sejong avatar, ethereal floating cyan-blue holographic orb with intricate fractal geometry and subtle Korean celestial glyphs, glowing digital particles, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '고도 1,000미터. 하강 속도 초속 45미터. 3차원...', Macro shot of luminous holographic quantum core orb, particle refraction, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Smooth 360-degree rotation around glowing holographic lattice",
+      "narration_script": "[세종] 고도 1,000미터. 하강 속도 초속 45미터. 3차원 플래시 라이다 지형 스캔 중.",
+      "subtitle_text": "고도 1,000미터. 하강 속도 초속 45미터. 3차원 플래시 라이다 지형 스캔 중.",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 52,
+    "start": 427.9,
+    "duration": 6.5,
+    "character": "세종",
+    "character_role": "천명호 중앙 양자 AI 시스템",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "경고! 2번 역추진 스러스터 노즐 압력 밸브 결빙 고장! 추력 불균형 28% 발생!",
+    "tracks": {
+      "image_prompt": "Quantum AI Sejong avatar, ethereal floating cyan-blue holographic orb with intricate fractal geometry and subtle Korean celestial glyphs, glowing digital particles, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '경고! 2번 역추진 스러스터 노즐 압력 밸브 결빙 고장...', Macro shot of luminous holographic quantum core orb, particle refraction, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Smooth 360-degree rotation around glowing holographic lattice",
+      "narration_script": "[세종] 경고! 2번 역추진 스러스터 노즐 압력 밸브 결빙 고장! 추력 불균형 28% 발생!",
+      "subtitle_text": "경고! 2번 역추진 스러스터 노즐 압력 밸브 결빙 고장! 추력 불균형 28% 발생!",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 53,
+    "start": 435.4,
+    "duration": 7.0,
+    "character": "강수연",
+    "character_role": "지상관제사령관 / 나로우주센터 총괄 디렉터",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "비상입니다! 착륙선이 우측으로 15도 기울어지며 섀클턴 절벽 쪽으로 밀려나고 있습니다!",
+    "tracks": {
+      "image_prompt": "Kang Soo-yeon Korean female flight director, 40s elegant confident Asian woman, dark blazer, communication headset, command room holographic backdrop, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '비상입니다! 착륙선이 우측으로 15도 기울어지며 섀클턴...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[강수연] 비상입니다! 착륙선이 우측으로 15도 기울어지며 섀클턴 절벽 쪽으로 밀려나고 있습니다!",
+      "subtitle_text": "비상입니다! 착륙선이 우측으로 15도 기울어지며 섀클턴 절벽 쪽으로 밀려나고 있습니다!",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 54,
+    "start": 443.4,
+    "duration": 8.0,
+    "character": "빅터",
+    "character_role": "ISS 및 아르테미스 연합군 국제 교신관",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "역시 무리였어. 달 남극의 극저온 밸브 동결은 미 항공우주국도 두려워하는 난제다. 착륙선은 추락할 것이다.",
+    "tracks": {
+      "image_prompt": "Victor international liaison officer, Caucasian male late 30s, olive-gray space flight suit with international mission patches, orbital space station cupola window view, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '역시 무리였어. 달 남극의 극저온 밸브 동결은 미 항공...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[빅터] 역시 무리였어. 달 남극의 극저온 밸브 동결은 미 항공우주국도 두려워하는 난제다. 착륙선은 추락할 것이다.",
+      "subtitle_text": "역시 무리였어. 달 남극의 극저온 밸브 동결은 미 항공우주국도 두려워하는 난제다. 착륙선은 추락할 것이다.",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 55,
+    "start": 452.4,
+    "duration": 4.8,
+    "character": "민재",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "사령관 아저씨! 떨어지면 안 돼요! 제발 힘내세요!",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '사령관 아저씨! 떨어지면 안 돼요! 제발 힘내세요!...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[민재] 사령관 아저씨! 떨어지면 안 돼요! 제발 힘내세요!",
+      "subtitle_text": "사령관 아저씨! 떨어지면 안 돼요! 제발 힘내세요!",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 56,
+    "start": 458.2,
+    "duration": 6.5,
+    "character": "최영목",
+    "character_role": "수석 우주추진 엔지니어 박사",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "준서 사령관! 즉시 탈출 엔진을 점화하고 궤도로 복귀하라! 목숨이 우선이다!",
+    "tracks": {
+      "image_prompt": "Dr. Choi Young-mok senior Korean space propulsion scientist, 50s intellectual male, thin glasses, high-tech white laboratory coat, glowing fusion engine diagnostic background, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '준서 사령관! 즉시 탈출 엔진을 점화하고 궤도로 복귀하...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[최영목] 준서 사령관! 즉시 탈출 엔진을 점화하고 궤도로 복귀하라! 목숨이 우선이다!",
+      "subtitle_text": "준서 사령관! 즉시 탈출 엔진을 점화하고 궤도로 복귀하라! 목숨이 우선이다!",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 57,
+    "start": 465.7,
+    "duration": 8.0,
+    "character": "박준서",
+    "character_role": "주인공 / 심우주 순양함 천명호 함장",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "아닙니다, 청장님! 여기서 물러서면 대한민국의 우주 도전은 10년 뒤처집니다. 제가 바로잡겠습니다!",
+    "tracks": {
+      "image_prompt": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '아닙니다, 청장님! 여기서 물러서면 대한민국의 우주 도...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[박준서] 아닙니다, 청장님! 여기서 물러서면 대한민국의 우주 도전은 10년 뒤처집니다. 제가 바로잡겠습니다!",
+      "subtitle_text": "아닙니다, 청장님! 여기서 물러서면 대한민국의 우주 도전은 10년 뒤처집니다. 제가 바로잡겠습니다!",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 58,
+    "start": 474.7,
+    "duration": 7.5,
+    "character": "박준서",
+    "character_role": "주인공 / 심우주 순양함 천명호 함장",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "컴퓨터 자동 착륙 오프! 수동 벡터 스러스트 조종간 인계! 1번, 3번 엔진 차등 출력 분사!",
+    "tracks": {
+      "image_prompt": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '컴퓨터 자동 착륙 오프! 수동 벡터 스러스트 조종간 인...', Intense dynamic close-up portrait, Dutch angle, dramatic red rim light, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Rapid camera push-in focusing sharply on character eyes",
+      "narration_script": "[박준서] 컴퓨터 자동 착륙 오프! 수동 벡터 스러스트 조종간 인계! 1번, 3번 엔진 차등 출력 분사!",
+      "subtitle_text": "컴퓨터 자동 착륙 오프! 수동 벡터 스러스트 조종간 인계! 1번, 3번 엔진 차등 출력 분사!",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 59,
+    "start": 483.2,
+    "duration": 7.2,
+    "character": "해설",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "1편에서 350명의 승객을 살려냈던 천재 파일럿의 영혼이 다시 한번 박준서의 온몸을 휘감습니다.",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '1편에서 350명의 승객을 살려냈던 천재 파일럿의 영혼...', Extreme wide master establishing shot, anamorphic cinematic lens, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Slow majestic forward dolly zoom with subtle cosmic star drift",
+      "narration_script": "[해설] 1편에서 350명의 승객을 살려냈던 천재 파일럿의 영혼이 다시 한번 박준서의 온몸을 휘감습니다.",
+      "subtitle_text": "1편에서 350명의 승객을 살려냈던 천재 파일럿의 영혼이 다시 한번 박준서의 온몸을 휘감습니다.",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 60,
+    "start": 491.4,
+    "duration": 6.5,
+    "character": "박준서",
+    "character_role": "주인공 / 심우주 순양함 천명호 함장",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "기울기 12도... 8도... 3도... 수평 복원! 접지 레그 충격 흡수기 락 해제!",
+    "tracks": {
+      "image_prompt": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '기울기 12도... 8도... 3도... 수평 복원! ...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[박준서] 기울기 12도... 8도... 3도... 수평 복원! 접지 레그 충격 흡수기 락 해제!",
+      "subtitle_text": "기울기 12도... 8도... 3도... 수평 복원! 접지 레그 충격 흡수기 락 해제!",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 61,
+    "start": 498.9,
+    "duration": 5.2,
+    "character": "세종",
+    "character_role": "천명호 중앙 양자 AI 시스템",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "고도 50미터... 20미터... 5미터... 접지 센서 블루 라이트 점등!",
+    "tracks": {
+      "image_prompt": "Quantum AI Sejong avatar, ethereal floating cyan-blue holographic orb with intricate fractal geometry and subtle Korean celestial glyphs, glowing digital particles, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '고도 50미터... 20미터... 5미터... 접지 센...', Macro shot of luminous holographic quantum core orb, particle refraction, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Smooth 360-degree rotation around glowing holographic lattice",
+      "narration_script": "[세종] 고도 50미터... 20미터... 5미터... 접지 센서 블루 라이트 점등!",
+      "subtitle_text": "고도 50미터... 20미터... 5미터... 접지 센서 블루 라이트 점등!",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 62,
+    "start": 505.1,
+    "duration": 9.2,
+    "character": "박준서",
+    "character_role": "주인공 / 심우주 순양함 천명호 함장",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "엔진 셧다운! 지상 관제실, 여기는 아리온 1호. 대한민국 달 착륙선, 달 남극 섀클턴 분지에 완벽히 착륙했습니다!",
+    "tracks": {
+      "image_prompt": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '엔진 셧다운! 지상 관제실, 여기는 아리온 1호. 대한...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[박준서] 엔진 셧다운! 지상 관제실, 여기는 아리온 1호. 대한민국 달 착륙선, 달 남극 섀클턴 분지에 완벽히 착륙했습니다!",
+      "subtitle_text": "엔진 셧다운! 지상 관제실, 여기는 아리온 1호. 대한민국 달 착륙선, 달 남극 섀클턴 분지에 완벽히 착륙했습니다!",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 63,
+    "start": 515.3,
+    "duration": 6.0,
+    "character": "강수연",
+    "character_role": "지상관제사령관 / 나로우주센터 총괄 디렉터",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "착륙 확인! 해냈어요! 아리온 1호가 달 남극에 섰습니다! 만세!",
+    "tracks": {
+      "image_prompt": "Kang Soo-yeon Korean female flight director, 40s elegant confident Asian woman, dark blazer, communication headset, command room holographic backdrop, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '착륙 확인! 해냈어요! 아리온 1호가 달 남극에 섰습니...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[강수연] 착륙 확인! 해냈어요! 아리온 1호가 달 남극에 섰습니다! 만세!",
+      "subtitle_text": "착륙 확인! 해냈어요! 아리온 1호가 달 남극에 섰습니다! 만세!",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 64,
+    "start": 522.3,
+    "duration": 8.2,
+    "character": "최영목",
+    "character_role": "수석 우주추진 엔지니어 박사",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "으하하! 해냈어! 대한민국 만세! 박준서 사령관, 자네가 대한민국을 달의 주인으로 만들었네!",
+    "tracks": {
+      "image_prompt": "Dr. Choi Young-mok senior Korean space propulsion scientist, 50s intellectual male, thin glasses, high-tech white laboratory coat, glowing fusion engine diagnostic background, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '으하하! 해냈어! 대한민국 만세! 박준서 사령관, 자네...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[최영목] 으하하! 해냈어! 대한민국 만세! 박준서 사령관, 자네가 대한민국을 달의 주인으로 만들었네!",
+      "subtitle_text": "으하하! 해냈어! 대한민국 만세! 박준서 사령관, 자네가 대한민국을 달의 주인으로 만들었네!",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 65,
+    "start": 531.5,
+    "duration": 6.0,
+    "character": "어머니",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "달 남극 섀클턴 아르테미스 연구기지 강하 및 탐사",
+    "location": "달 남극 섀클턴 아르테미스 기지",
+    "dialogue": "준서야... 내 아들 준서야... 살았구나, 정말 고맙다...",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9, character acting: portraying '준서야... 내 아들 준서야... 살았구나, 정말 고맙...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[어머니] 준서야... 내 아들 준서야... 살았구나, 정말 고맙다...",
+      "subtitle_text": "준서야... 내 아들 준서야... 살았구나, 정말 고맙다...",
+      "sound_design": "Ambience: Desolate grandeur, scientific milestone, human resilience | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 66,
+    "start": 538.5,
+    "duration": 9.5,
+    "character": "빅터",
+    "character_role": "ISS 및 아르테미스 연합군 국제 교신관",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "말도 안 돼... 편향 추력만으로 결빙된 착륙선을 수동으로 제어해 연착륙시키다니... 기적이다. 한국인들을 인정하지 않을 수 없군.",
+    "tracks": {
+      "image_prompt": "Victor international liaison officer, Caucasian male late 30s, olive-gray space flight suit with international mission patches, orbital space station cupola window view, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '말도 안 돼... 편향 추력만으로 결빙된 착륙선을 수동...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[빅터] 말도 안 돼... 편향 추력만으로 결빙된 착륙선을 수동으로 제어해 연착륙시키다니... 기적이다. 한국인들을 인정하지 않을 수 없군.",
+      "subtitle_text": "말도 안 돼... 편향 추력만으로 결빙된 착륙선을 수동으로 제어해 연착륙시키다니... 기적이다. 한국인들을 인정하지 않을 수 없군.",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 67,
+    "start": 549.0,
+    "duration": 9.5,
+    "character": "해설",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "착륙선 해치가 열리고, 박준서 사령관이 은빛 달 표면에 첫 발을 내딛습니다. 잿빛 레골리스 위에 선명한 태극기가 꽂힙니다.",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '착륙선 해치가 열리고, 박준서 사령관이 은빛 달 표면에...', Extreme wide master establishing shot, anamorphic cinematic lens, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Slow majestic forward dolly zoom with subtle cosmic star drift",
+      "narration_script": "[해설] 착륙선 해치가 열리고, 박준서 사령관이 은빛 달 표면에 첫 발을 내딛습니다. 잿빛 레골리스 위에 선명한 태극기가 꽂힙니다.",
+      "subtitle_text": "착륙선 해치가 열리고, 박준서 사령관이 은빛 달 표면에 첫 발을 내딛습니다. 잿빛 레골리스 위에 선명한 태극기가 꽂힙니다.",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 68,
+    "start": 559.5,
+    "duration": 8.2,
+    "character": "박준서",
+    "character_role": "주인공 / 심우주 순양함 천명호 함장",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "한 파일럿의 작은 발걸음이지만, 대한민국 5천만 국민의 꿈이 우주 시대를 향해 내딛는 위대한 도약입니다.",
+    "tracks": {
+      "image_prompt": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '한 파일럿의 작은 발걸음이지만, 대한민국 5천만 국민의...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[박준서] 한 파일럿의 작은 발걸음이지만, 대한민국 5천만 국민의 꿈이 우주 시대를 향해 내딛는 위대한 도약입니다.",
+      "subtitle_text": "한 파일럿의 작은 발걸음이지만, 대한민국 5천만 국민의 꿈이 우주 시대를 향해 내딛는 위대한 도약입니다.",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 69,
+    "start": 568.7,
+    "duration": 8.2,
+    "character": "해설",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "달 남극에 안착한 아리온 1호는 국산 탐사 로버 '해치'를 전개하여 영구음영지역 표본 채취에 돌입합니다.",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '달 남극에 안착한 아리온 1호는 국산 탐사 로버 '해치...', Extreme wide master establishing shot, anamorphic cinematic lens, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Slow majestic forward dolly zoom with subtle cosmic star drift",
+      "narration_script": "[해설] 달 남극에 안착한 아리온 1호는 국산 탐사 로버 '해치'를 전개하여 영구음영지역 표본 채취에 돌입합니다.",
+      "subtitle_text": "달 남극에 안착한 아리온 1호는 국산 탐사 로버 '해치'를 전개하여 영구음영지역 표본 채취에 돌입합니다.",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 70,
+    "start": 577.9,
+    "duration": 9.0,
+    "character": "윤선아",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "사령관님, 로버 해치가 전송해 온 분광 데이터가 도착했습니다. 고농도 얼음층과 순도 99%의 헬륨-3 매장층 확인되었습니다!",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '사령관님, 로버 해치가 전송해 온 분광 데이터가 도착했...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[윤선아] 사령관님, 로버 해치가 전송해 온 분광 데이터가 도착했습니다. 고농도 얼음층과 순도 99%의 헬륨-3 매장층 확인되었습니다!",
+      "subtitle_text": "사령관님, 로버 해치가 전송해 온 분광 데이터가 도착했습니다. 고농도 얼음층과 순도 99%의 헬륨-3 매장층 확인되었습니다!",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 71,
+    "start": 587.9,
+    "duration": 7.5,
+    "character": "강수연",
+    "character_role": "지상관제사령관 / 나로우주센터 총괄 디렉터",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "이것으로 대한민국은 청정 핵융합 발전의 핵심 원료를 독점 확보할 수 있는 교두보를 마련했습니다!",
+    "tracks": {
+      "image_prompt": "Kang Soo-yeon Korean female flight director, 40s elegant confident Asian woman, dark blazer, communication headset, command room holographic backdrop, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '이것으로 대한민국은 청정 핵융합 발전의 핵심 원료를 독...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[강수연] 이것으로 대한민국은 청정 핵융합 발전의 핵심 원료를 독점 확보할 수 있는 교두보를 마련했습니다!",
+      "subtitle_text": "이것으로 대한민국은 청정 핵융합 발전의 핵심 원료를 독점 확보할 수 있는 교두보를 마련했습니다!",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 72,
+    "start": 596.4,
+    "duration": 6.5,
+    "character": "김태훈",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "준서야, 고생했다. 이제 표본 싣고 집으로 돌아올 준비만 하면 되겠다. 치맥 쏠게!",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '준서야, 고생했다. 이제 표본 싣고 집으로 돌아올 준비...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[김태훈] 준서야, 고생했다. 이제 표본 싣고 집으로 돌아올 준비만 하면 되겠다. 치맥 쏠게!",
+      "subtitle_text": "준서야, 고생했다. 이제 표본 싣고 집으로 돌아올 준비만 하면 되겠다. 치맥 쏠게!",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 73,
+    "start": 603.9,
+    "duration": 7.2,
+    "character": "세종",
+    "character_role": "천명호 중앙 양자 AI 시스템",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "긴급 통보! 태양 활동 극대기 도달. 흑점 X급 폭발로 인한 거대 태양 양성자 폭풍(SPE) 발생!",
+    "tracks": {
+      "image_prompt": "Quantum AI Sejong avatar, ethereal floating cyan-blue holographic orb with intricate fractal geometry and subtle Korean celestial glyphs, glowing digital particles, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '긴급 통보! 태양 활동 극대기 도달. 흑점 X급 폭발로...', Macro shot of luminous holographic quantum core orb, particle refraction, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Smooth 360-degree rotation around glowing holographic lattice",
+      "narration_script": "[세종] 긴급 통보! 태양 활동 극대기 도달. 흑점 X급 폭발로 인한 거대 태양 양성자 폭풍(SPE) 발생!",
+      "subtitle_text": "긴급 통보! 태양 활동 극대기 도달. 흑점 X급 폭발로 인한 거대 태양 양성자 폭풍(SPE) 발생!",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 74,
+    "start": 612.1,
+    "duration": 9.5,
+    "character": "강수연",
+    "character_role": "지상관제사령관 / 나로우주센터 총괄 디렉터",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "비상입니다! 태양풍이 내행성 궤도를 강타하고 있습니다. 2045년 유인 탐사를 위해 화성으로 향하던 무인 선행선 '천명 1호'의 주 통신기가 셧다운되었습니다!",
+    "tracks": {
+      "image_prompt": "Kang Soo-yeon Korean female flight director, 40s elegant confident Asian woman, dark blazer, communication headset, command room holographic backdrop, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '비상입니다! 태양풍이 내행성 궤도를 강타하고 있습니다....', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[강수연] 비상입니다! 태양풍이 내행성 궤도를 강타하고 있습니다. 2045년 유인 탐사를 위해 화성으로 향하던 무인 선행선 '천명 1호'의 주 통신기가 셧다운되었습니다!",
+      "subtitle_text": "비상입니다! 태양풍이 내행성 궤도를 강타하고 있습니다. 2045년 유인 탐사를 위해 화성으로 향하던 무인 선행선 '천명 1호'의 주 통신기가 셧다운되었습니다!",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 75,
+    "start": 622.6,
+    "duration": 8.5,
+    "character": "최영목",
+    "character_role": "수석 우주추진 엔지니어 박사",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "천명 1호는 대한민국 화성 로드맵의 심장이다! 제어 불능 상태로 궤도를 이탈하면 태양으로 추락해 파괴된다!",
+    "tracks": {
+      "image_prompt": "Dr. Choi Young-mok senior Korean space propulsion scientist, 50s intellectual male, thin glasses, high-tech white laboratory coat, glowing fusion engine diagnostic background, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '천명 1호는 대한민국 화성 로드맵의 심장이다! 제어 불...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[최영목] 천명 1호는 대한민국 화성 로드맵의 심장이다! 제어 불능 상태로 궤도를 이탈하면 태양으로 추락해 파괴된다!",
+      "subtitle_text": "천명 1호는 대한민국 화성 로드맵의 심장이다! 제어 불능 상태로 궤도를 이탈하면 태양으로 추락해 파괴된다!",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 76,
+    "start": 632.1,
+    "duration": 8.0,
+    "character": "빅터",
+    "character_role": "ISS 및 아르테미스 연합군 국제 교신관",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "지구 통신망으로는 태양 전자기 간섭 때문에 화성선 신호를 잡을 수 없습니다. 천명 호는 끝났습니다.",
+    "tracks": {
+      "image_prompt": "Victor international liaison officer, Caucasian male late 30s, olive-gray space flight suit with international mission patches, orbital space station cupola window view, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '지구 통신망으로는 태양 전자기 간섭 때문에 화성선 신호...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[빅터] 지구 통신망으로는 태양 전자기 간섭 때문에 화성선 신호를 잡을 수 없습니다. 천명 호는 끝났습니다.",
+      "subtitle_text": "지구 통신망으로는 태양 전자기 간섭 때문에 화성선 신호를 잡을 수 없습니다. 천명 호는 끝났습니다.",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 77,
+    "start": 641.1,
+    "duration": 8.8,
+    "character": "윤선아",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "방법이 딱 하나 있습니다. 달 남극에 있는 아리온 호의 고출력 광학 레이저 안테나를 화성선 중계기로 전용하는 것입니다.",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '방법이 딱 하나 있습니다. 달 남극에 있는 아리온 호의...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[윤선아] 방법이 딱 하나 있습니다. 달 남극에 있는 아리온 호의 고출력 광학 레이저 안테나를 화성선 중계기로 전용하는 것입니다.",
+      "subtitle_text": "방법이 딱 하나 있습니다. 달 남극에 있는 아리온 호의 고출력 광학 레이저 안테나를 화성선 중계기로 전용하는 것입니다.",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 78,
+    "start": 650.9,
+    "duration": 8.0,
+    "character": "박준서",
+    "character_role": "주인공 / 심우주 순양함 천명호 함장",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "지상 관제실, 제가 직접 외부로 나가 아리온 호의 안테나 각도를 화성 벡터 142도로 수동 정렬하겠습니다.",
+    "tracks": {
+      "image_prompt": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '지상 관제실, 제가 직접 외부로 나가 아리온 호의 안테...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[박준서] 지상 관제실, 제가 직접 외부로 나가 아리온 호의 안테나 각도를 화성 벡터 142도로 수동 정렬하겠습니다.",
+      "subtitle_text": "지상 관제실, 제가 직접 외부로 나가 아리온 호의 안테나 각도를 화성 벡터 142도로 수동 정렬하겠습니다.",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 79,
+    "start": 659.9,
+    "duration": 7.5,
+    "character": "강수연",
+    "character_role": "지상관제사령관 / 나로우주센터 총괄 디렉터",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "사령관님, 밖은 태양 방사선 수치가 치솟고 있습니다! 우주복 차폐 한계까지 15분밖에 없습니다!",
+    "tracks": {
+      "image_prompt": "Kang Soo-yeon Korean female flight director, 40s elegant confident Asian woman, dark blazer, communication headset, command room holographic backdrop, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '사령관님, 밖은 태양 방사선 수치가 치솟고 있습니다! ...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[강수연] 사령관님, 밖은 태양 방사선 수치가 치솟고 있습니다! 우주복 차폐 한계까지 15분밖에 없습니다!",
+      "subtitle_text": "사령관님, 밖은 태양 방사선 수치가 치솟고 있습니다! 우주복 차폐 한계까지 15분밖에 없습니다!",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 80,
+    "start": 668.4,
+    "duration": 8.5,
+    "character": "박준서",
+    "character_role": "주인공 / 심우주 순양함 천명호 함장",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "1편에서 승객들을 두고 조종간을 놓지 않았듯, 대한민국의 화성 탐사선도 절대 포기할 수 없습니다. 에어락 개방!",
+    "tracks": {
+      "image_prompt": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '1편에서 승객들을 두고 조종간을 놓지 않았듯, 대한민국...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[박준서] 1편에서 승객들을 두고 조종간을 놓지 않았듯, 대한민국의 화성 탐사선도 절대 포기할 수 없습니다. 에어락 개방!",
+      "subtitle_text": "1편에서 승객들을 두고 조종간을 놓지 않았듯, 대한민국의 화성 탐사선도 절대 포기할 수 없습니다. 에어락 개방!",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 81,
+    "start": 677.9,
+    "duration": 8.8,
+    "character": "해설",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "영하 230도의 혹한과 쏟아지는 태양 방사선 속에서 박준서 사령관은 안테나 구동 모터를 수동으로 밀어 올립니다.",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '영하 230도의 혹한과 쏟아지는 태양 방사선 속에서 박...', Extreme wide master establishing shot, anamorphic cinematic lens, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Slow majestic forward dolly zoom with subtle cosmic star drift",
+      "narration_script": "[해설] 영하 230도의 혹한과 쏟아지는 태양 방사선 속에서 박준서 사령관은 안테나 구동 모터를 수동으로 밀어 올립니다.",
+      "subtitle_text": "영하 230도의 혹한과 쏟아지는 태양 방사선 속에서 박준서 사령관은 안테나 구동 모터를 수동으로 밀어 올립니다.",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 82,
+    "start": 687.7,
+    "duration": 8.5,
+    "character": "박준서",
+    "character_role": "주인공 / 심우주 순양함 천명호 함장",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "으아아아차! 각도 140도... 141도... 142도 고정 완료! 세종, 천명 1호로 리부트 커맨드 레이저 펄스 발사!",
+    "tracks": {
+      "image_prompt": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '으아아아차! 각도 140도... 141도... 142도...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[박준서] 으아아아차! 각도 140도... 141도... 142도 고정 완료! 세종, 천명 1호로 리부트 커맨드 레이저 펄스 발사!",
+      "subtitle_text": "으아아아차! 각도 140도... 141도... 142도 고정 완료! 세종, 천명 1호로 리부트 커맨드 레이저 펄스 발사!",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 83,
+    "start": 697.2,
+    "duration": 7.0,
+    "character": "세종",
+    "character_role": "천명호 중앙 양자 AI 시스템",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "고출력 레이저 패킷 송출. 화성 탐사선 천명 1호 수신 확인... 메인프레임 재부팅 성공!",
+    "tracks": {
+      "image_prompt": "Quantum AI Sejong avatar, ethereal floating cyan-blue holographic orb with intricate fractal geometry and subtle Korean celestial glyphs, glowing digital particles, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '고출력 레이저 패킷 송출. 화성 탐사선 천명 1호 수신...', Macro shot of luminous holographic quantum core orb, particle refraction, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Smooth 360-degree rotation around glowing holographic lattice",
+      "narration_script": "[세종] 고출력 레이저 패킷 송출. 화성 탐사선 천명 1호 수신 확인... 메인프레임 재부팅 성공!",
+      "subtitle_text": "고출력 레이저 패킷 송출. 화성 탐사선 천명 1호 수신 확인... 메인프레임 재부팅 성공!",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 84,
+    "start": 705.2,
+    "duration": 7.5,
+    "character": "강수연",
+    "character_role": "지상관제사령관 / 나로우주센터 총괄 디렉터",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "천명 1호가 응답했습니다! 화성 진입 궤도 정상 복구! 대한민국 화성 탐사선이 살아났습니다!",
+    "tracks": {
+      "image_prompt": "Kang Soo-yeon Korean female flight director, 40s elegant confident Asian woman, dark blazer, communication headset, command room holographic backdrop, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '천명 1호가 응답했습니다! 화성 진입 궤도 정상 복구!...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[강수연] 천명 1호가 응답했습니다! 화성 진입 궤도 정상 복구! 대한민국 화성 탐사선이 살아났습니다!",
+      "subtitle_text": "천명 1호가 응답했습니다! 화성 진입 궤도 정상 복구! 대한민국 화성 탐사선이 살아났습니다!",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 85,
+    "start": 713.7,
+    "duration": 7.2,
+    "character": "최영목",
+    "character_role": "수석 우주추진 엔지니어 박사",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "만세! 해냈구나! 달에서 화성선까지 구해내다니, 대한민국 우주의 위대한 승리다!",
+    "tracks": {
+      "image_prompt": "Dr. Choi Young-mok senior Korean space propulsion scientist, 50s intellectual male, thin glasses, high-tech white laboratory coat, glowing fusion engine diagnostic background, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '만세! 해냈구나! 달에서 화성선까지 구해내다니, 대한민...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[최영목] 만세! 해냈구나! 달에서 화성선까지 구해내다니, 대한민국 우주의 위대한 승리다!",
+      "subtitle_text": "만세! 해냈구나! 달에서 화성선까지 구해내다니, 대한민국 우주의 위대한 승리다!",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 86,
+    "start": 721.9,
+    "duration": 8.5,
+    "character": "빅터",
+    "character_role": "ISS 및 아르테미스 연합군 국제 교신관",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "경이롭습니다... 달에서 위험을 무릅쓰고 화성 탐사선까지 통제해내다니, 대한민국은 진정한 우주 강국입니다.",
+    "tracks": {
+      "image_prompt": "Victor international liaison officer, Caucasian male late 30s, olive-gray space flight suit with international mission patches, orbital space station cupola window view, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '경이롭습니다... 달에서 위험을 무릅쓰고 화성 탐사선까...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[빅터] 경이롭습니다... 달에서 위험을 무릅쓰고 화성 탐사선까지 통제해내다니, 대한민국은 진정한 우주 강국입니다.",
+      "subtitle_text": "경이롭습니다... 달에서 위험을 무릅쓰고 화성 탐사선까지 통제해내다니, 대한민국은 진정한 우주 강국입니다.",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 87,
+    "start": 731.4,
+    "duration": 5.5,
+    "character": "민재",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "준서 형아 만세! 나 꼭 우주비행사 돼서 형아 뒤를 따를게요!",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '준서 형아 만세! 나 꼭 우주비행사 돼서 형아 뒤를 따...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[민재] 준서 형아 만세! 나 꼭 우주비행사 돼서 형아 뒤를 따를게요!",
+      "subtitle_text": "준서 형아 만세! 나 꼭 우주비행사 돼서 형아 뒤를 따를게요!",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 88,
+    "start": 737.9,
+    "duration": 5.8,
+    "character": "어머니",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "장하다, 내 아들... 온 세상이 너를 자랑스러워하는구나...",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '장하다, 내 아들... 온 세상이 너를 자랑스러워하는구...', Over-the-shoulder medium shot focusing on instrument console, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Steady slow crane tilt-up revealing space backdrop",
+      "narration_script": "[어머니] 장하다, 내 아들... 온 세상이 너를 자랑스러워하는구나...",
+      "subtitle_text": "장하다, 내 아들... 온 세상이 너를 자랑스러워하는구나...",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 89,
+    "start": 744.7,
+    "duration": 7.8,
+    "character": "해설",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "달의 지평선 너머로 푸른 지구가 떠오르고, 그 옆으로 붉은빛의 화성이 영롱하게 반짝입니다.",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '달의 지평선 너머로 푸른 지구가 떠오르고, 그 옆으로 ...', Extreme wide master establishing shot, anamorphic cinematic lens, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Slow majestic forward dolly zoom with subtle cosmic star drift",
+      "narration_script": "[해설] 달의 지평선 너머로 푸른 지구가 떠오르고, 그 옆으로 붉은빛의 화성이 영롱하게 반짝입니다.",
+      "subtitle_text": "달의 지평선 너머로 푸른 지구가 떠오르고, 그 옆으로 붉은빛의 화성이 영롱하게 반짝입니다.",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 90,
+    "start": 753.5,
+    "duration": 9.0,
+    "character": "박준서",
+    "character_role": "주인공 / 심우주 순양함 천명호 함장",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "우리는 오늘 달에 섰습니다. 하지만 우리의 여정은 여기서 멈추지 않습니다. 다음 목적지는... 저 붉은 행성, 화성입니다.",
+    "tracks": {
+      "image_prompt": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '우리는 오늘 달에 섰습니다. 하지만 우리의 여정은 여기...', Medium shot, 35mm cinematic lens, elegant atmospheric lighting, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Gentle horizontal tracking pan following subject focus",
+      "narration_script": "[박준서] 우리는 오늘 달에 섰습니다. 하지만 우리의 여정은 여기서 멈추지 않습니다. 다음 목적지는... 저 붉은 행성, 화성입니다.",
+      "subtitle_text": "우리는 오늘 달에 섰습니다. 하지만 우리의 여정은 여기서 멈추지 않습니다. 다음 목적지는... 저 붉은 행성, 화성입니다.",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  },
+  {
+    "scene_id": 91,
+    "start": 763.5,
+    "duration": 9.8,
+    "character": "해설",
+    "character_role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+    "stage": "심우주 궤도 전이 및 화성 대기 진입",
+    "location": "화성 유토피아 평원 상공 궤도 및 강하",
+    "dialogue": "대한민국의 도전은 멈추지 않는다. 달을 넘어 화성으로, 온 우주를 향해 뻗어나갈 대한민국의 위대한 항해가 지금 시작됩니다.",
+    "tracks": {
+      "image_prompt": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic, Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9, character acting: portraying '대한민국의 도전은 멈추지 않는다. 달을 넘어 화성으로,...', Extreme wide master establishing shot, anamorphic cinematic lens, 8k UHD, hyper-realistic, photorealistic sci-fi cinematography, Unreal Engine 5 render aesthetic --ar 16:9",
+      "camera_motion": "Slow majestic forward dolly zoom with subtle cosmic star drift",
+      "narration_script": "[해설] 대한민국의 도전은 멈추지 않는다. 달을 넘어 화성으로, 온 우주를 향해 뻗어나갈 대한민국의 위대한 항해가 지금 시작됩니다.",
+      "subtitle_text": "대한민국의 도전은 멈추지 않는다. 달을 넘어 화성으로, 온 우주를 향해 뻗어나갈 대한민국의 위대한 항해가 지금 시작됩니다.",
+      "sound_design": "Ambience: Sublime destiny, high-velocity thrill, new frontier | Foley: Sub-bass engine rumble & comms chatter"
+    }
+  }
+]

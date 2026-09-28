@@ -1,0 +1,70 @@
+{
+  "project": "vf10_k_space_odyssey",
+  "version": "2.0.0",
+  "characters": {
+    "박준서": {
+      "role": "주인공 / 심우주 순양함 천명호 함장",
+      "visual_persona": {
+        "gender": "male",
+        "age": 34,
+        "appearance": "Sharp determined facial features, short neat black hair, intense focused dark eyes, athletic commander build",
+        "costume": "Sleek navy-blue and titanium-white KASA deep-space commander flight uniform with subtle Taegeuk insignia on chest, high-collar compression neck seal",
+        "visual_anchor_dna": "Park Jun-seo Korean astronaut commander, sleek navy and white KASA flight suit, sharp disciplined handsome Asian male face, short black hair, cinematic dramatic rim lighting",
+        "color_palette": ["#0B1B3D", "#FFFFFF", "#1E90FF", "#8A9BA8"]
+      }
+    },
+    "강수연": {
+      "role": "지상관제사령관 / 나로우주센터 총괄 디렉터",
+      "visual_persona": {
+        "gender": "female",
+        "age": 42,
+        "appearance": "Charismatic intellectual aura, tied-back dark hair, refined sharp gaze, calm and commanding presence",
+        "costume": "Dark charcoal modern flight director formal blazer with digital badge, communication earpiece with faint cyan LED indicator",
+        "visual_anchor_dna": "Kang Soo-yeon Korean female flight director, 40s elegant confident Asian woman, dark blazer, communication headset, command room holographic backdrop",
+        "color_palette": ["#22252A", "#00E5FF", "#C0C0C0", "#EAEAEA"]
+      }
+    },
+    "최영목": {
+      "role": "수석 우주추진 엔지니어 박사",
+      "visual_persona": {
+        "gender": "male",
+        "age": 55,
+        "appearance": "Wise seasoned engineering scientist, graying sideburns, thin titanium-frame glasses, weathered thoughtful eyes",
+        "costume": "White high-tech lab coat over slate-gray technical jumpsuit with data tablet holster",
+        "visual_anchor_dna": "Dr. Choi Young-mok senior Korean space propulsion scientist, 50s intellectual male, thin glasses, high-tech white laboratory coat, glowing fusion engine diagnostic background",
+        "color_palette": ["#F8F9FA", "#3A3F44", "#FF9900", "#4A90E2"]
+      }
+    },
+    "세종": {
+      "role": "천명호 중앙 양자 AI 시스템",
+      "visual_persona": {
+        "gender": "AI entity",
+        "age": "N/A",
+        "appearance": "Sophisticated geometric quantum core, luminous translucent cyan-blue fractal hologram projecting subtle Korean typography glyphs and orbital waveforms",
+        "costume": "Floating ethereal holographic lattice hovering above the bridge pedestal",
+        "visual_anchor_dna": "Quantum AI Sejong avatar, ethereal floating cyan-blue holographic orb with intricate fractal geometry and subtle Korean celestial glyphs, glowing digital particles",
+        "color_palette": ["#00FFFF", "#0077BE", "#E0FFFF", "#0A192F"]
+      }
+    },
+    "빅터": {
+      "role": "ISS 및 아르테미스 연합군 국제 교신관",
+      "visual_persona": {
+        "gender": "male",
+        "age": 38,
+        "appearance": "Broad shoulders, light brown crew-cut hair, friendly yet disciplined NATO/NASA international officer expression",
+        "costume": "Olive-gray joint space coalition flight jumpsuit with multi-national mission patches",
+        "visual_anchor_dna": "Victor international liaison officer, Caucasian male late 30s, olive-gray space flight suit with international mission patches, orbital space station cupola window view",
+        "color_palette": ["#4B5320", "#708090", "#DCDCDC", "#1C2833"]
+      }
+    },
+    "해설": {
+      "role": "시네마틱 우주 서사 내레이션 (우주 뷰 & 전함 뷰)",
+      "visual_persona": {
+        "gender": "cosmic narrator",
+        "appearance": "Epic cinematic third-person grand cinematography, wide anamorphic cosmic view",
+        "visual_anchor_dna": "Epic cosmic master wide shot, hyper-realistic Korean deep-space battleship Cheonmyeong-ho, Earth sunrise horizon, deep starfield, 8k resolution, Unreal Engine 5 render aesthetic",
+        "color_palette": ["#000814", "#003566", "#FFC300", "#E0E1DD"]
+      }
+    }
+  }
+}

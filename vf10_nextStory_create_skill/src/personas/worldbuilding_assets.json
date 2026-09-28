@@ -1,0 +1,50 @@
+{
+  "project": "vf10_k_space_odyssey",
+  "version": "2.0.0",
+  "character_sheets": {
+    "박준서": {
+      "turnaround_prompt": "Concept art character turnaround sheet of Park Jun-seo Korean commander, front view, 3/4 front view, side profile view, back view, standing heroically in sleek navy-white KASA spacesuit, clean neutral gray studio background, hyper-detailed, photorealistic, character model sheet --ar 16:9",
+      "expression_prompts": {
+        "resolute_command": "Close-up portrait of Park Jun-seo, resolute commanding expression, intense determined dark eyes, slight clenching jaw, visor reflection of planetary orbit, dramatic rim lighting",
+        "intense_focus": "Medium close-up of Park Jun-seo in pilot cockpit, deep concentration, analyzing holographic trajectory monitors, subtle sweat bead, emergency cyan and amber ambient glow",
+        "urgent_tension": "Close-up of Park Jun-seo gripping control yoke, urgent alarm flashing crimson, wide alert eyes, hyper-realistic facial pores and tension muscles",
+        "triumphant_relief": "Medium shot of Park Jun-seo removing astronaut helmet, relieved heroic smile, looking out at lunar horizon sunrise, warm golden solar backlight"
+      }
+    },
+    "강수연": {
+      "turnaround_prompt": "Concept art character sheet of Kang Soo-yeon female flight director, front view, side profile, 3/4 view, elegant charcoal director suit, headset on ear, clean neutral background, 8k resolution character turnaround --ar 16:9",
+      "expression_prompts": {
+        "calm_authority": "Portrait of Director Kang Soo-yeon, standing calmly with arms crossed, overseeing giant telemetry video wall, serene authoritative composure",
+        "critical_decision": "Dramatic close-up of Kang Soo-yeon pressing communication headset, making split-second abort or go decision, intense focus, blue holographic reflection on glasses",
+        "relieved_cheer": "Kang Soo-yeon exhaling in immense relief, clapping gently as launch is confirmed, mission controllers cheering softly in blurred background"
+      }
+    }
+  },
+  "worldbuilding_locations": {
+    "naro_mission_control": {
+      "name": "나로우주센터 종합관제실 (KASA Mission Control)",
+      "prompt": "Futuristic high-tech Naro Space Center mission control center, massive curved holographic multi-screen wall displaying Earth-Moon trajectory orbits, tiers of flight controller workstations with glowing blue and teal telemetry monitors, modern architectural acoustic panels, cinematic volumetric lighting, 8k Unreal Engine 5 aesthetic --ar 16:9",
+      "mood": "High tension, professional precision, patriotic technological grandeur"
+    },
+    "nuri_v_launchpad": {
+      "name": "누리호-V 중형 발사대 (Nuri-V Heavy Launchpad)",
+      "prompt": "Gargantuan Korean heavy orbital rocket Nuri-V standing towering on coastal launchpad at dawn, cryogenic oxygen vapor plumes drifting across steel gantry towers, ocean waves crashing against Goheung sea cliffs in background, cinematic golden hour low-angle shot --ar 16:9",
+      "mood": "Monumental awe, raw mechanical power, dawn of exploration"
+    },
+    "cheonmyeong_bridge": {
+      "name": "심우주 순양전함 '천명호' 메인 브릿지",
+      "prompt": "Command bridge of deep-space explorer ship Cheonmyeong-ho, panoramic curved transparent composite viewport showing Earth curvature and glittering starfield, central quantum AI holographic pedestal glowing sapphire blue, ergonomic captain seat, minimalist Korean naval sci-fi aesthetics --ar 16:9",
+      "mood": "Futuristic frontier, quiet resolve, cutting-edge exploration"
+    },
+    "lunar_southpole_base": {
+      "name": "달 남극 섀클턴 아르테미스 기지",
+      "prompt": "Lunar south pole permanent base on crater rim, geodesic habitat domes bathed in harsh low-angle solar glare, lunar mining rovers kicking up static dust, dark Earth hanging in black sky, ultra-crisp shadows and photorealistic lunar regolith textures --ar 16:9",
+      "mood": "Desolate grandeur, scientific milestone, human resilience"
+    },
+    "mars_utopia_orbit": {
+      "name": "화성 유토피아 평원 상공 궤도 및 강하",
+      "prompt": "Cinematic orbital vista of Mars, massive rusty orange deserts and Olympus Mons caldera, Cheonmyeong-ho ship descending with blue ion thruster trails, atmospheric entry glow starting on heat shields, 8k resolution space photography --ar 16:9",
+      "mood": "Sublime destiny, high-velocity thrill, new frontier"
+    }
+  }
+}
