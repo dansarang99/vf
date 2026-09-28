@@ -1,0 +1,82 @@
+<w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mo="http://schemas.microsoft.com/office/mac/office/2008/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+  <w:pPr>
+    <w:autoSpaceDN w:val="0"/>
+    <w:tabs>
+      <w:tab w:pos="528" w:val="left"/>
+      <w:tab w:pos="738" w:val="left"/>
+    </w:tabs>
+    <w:autoSpaceDE w:val="0"/>
+    <w:widowControl/>
+    <w:spacing w:line="290" w:lineRule="auto" w:before="0" w:after="0"/>
+    <w:ind w:left="318" w:right="0" w:firstLine="0"/>
+    <w:jc w:val="left"/>
+  </w:pPr>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:ascii="HaansoftBatang" w:hAnsi="HaansoftBatang" w:eastAsia="HaansoftBatang"/>
+      <w:b w:val="0"/>
+      <w:i w:val="0"/>
+      <w:color w:val="FFFFFF"/>
+      <w:sz w:val="21"/>
+    </w:rPr>
+    <w:t>•</w:t>
+  </w:r>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:ascii="TTA37CD62tCID" w:hAnsi="TTA37CD62tCID" w:eastAsia="TTA37CD62tCID"/>
+      <w:b w:val="0"/>
+      <w:i w:val="0"/>
+      <w:color w:val="FFFFFF"/>
+      <w:sz w:val="21"/>
+    </w:rPr>
+    <w:t>2025년산 쌀 단위당 수확량은 전년(514kg) 대비 1.7% 증가한 522kg/10a이었다.</w:t>
+  </w:r>
+  <w:r>
+    <w:rPr>
+      <w:color w:val="FFFFFF"/>
+    </w:rPr>
+    <w:tab/>
+  </w:r>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:ascii="TTA37CD62tCID" w:hAnsi="TTA37CD62tCID" w:eastAsia="TTA37CD62tCID"/>
+      <w:b w:val="0"/>
+      <w:i w:val="0"/>
+      <w:color w:val="FFFFFF"/>
+      <w:sz w:val="21"/>
+    </w:rPr>
+    <w:t>-</w:t>
+  </w:r>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:ascii="TTA37CD62tCID" w:hAnsi="TTA37CD62tCID" w:eastAsia="TTA37CD62tCID"/>
+      <w:b w:val="0"/>
+      <w:i w:val="0"/>
+      <w:color w:val="FFFFFF"/>
+      <w:sz w:val="21"/>
+    </w:rPr>
+    <w:t xml:space="preserve">생육 초기 기상여건이 양호하여 후기 깨씨무늬병·수발아 등 발생에도 단수가 전·평년 </w:t>
+  </w:r>
+  <w:r>
+    <w:rPr>
+      <w:color w:val="FFFFFF"/>
+    </w:rPr>
+    <w:tab/>
+  </w:r>
+  <w:r>
+    <w:rPr>
+      <w:color w:val="FFFFFF"/>
+    </w:rPr>
+    <w:tab/>
+  </w:r>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:ascii="TTA37CD62tCID" w:hAnsi="TTA37CD62tCID" w:eastAsia="TTA37CD62tCID"/>
+      <w:b w:val="0"/>
+      <w:i w:val="0"/>
+      <w:color w:val="FFFFFF"/>
+      <w:sz w:val="21"/>
+    </w:rPr>
+    <w:t>대비 증가하였다.</w:t>
+  </w:r>
+</w:p>

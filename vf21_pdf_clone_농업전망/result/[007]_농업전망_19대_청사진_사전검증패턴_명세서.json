@@ -1,0 +1,219 @@
+{
+  "version": "2.0-GrandMaster",
+  "document_name": "농업전망_제2장_국내곡물수급동향과전망",
+  "source_path": "upload/3f3b07ee6df942cdb31b1822aa0c1cae.pdf",
+  "intellectual_property": "(AX)창업기술 이한규 대표",
+  "modules": {
+    "01_businessDNA": {
+      "organization": "한국농촌경제연구원 (KREI)",
+      "document_type": "Academic/Policy Research Report",
+      "authors": [
+        {
+          "name": "박한울",
+          "role": "전문연구원",
+          "email": "phu87@krei.re.kr"
+        },
+        {
+          "name": "김다정",
+          "role": "전문연구원",
+          "email": "swetmug@krei.re.kr"
+        },
+        {
+          "name": "최준혁",
+          "role": "연구원",
+          "email": "wnsgur3385@krei.re.kr"
+        },
+        {
+          "name": "김지훈",
+          "role": "연구원",
+          "email": "jhkim4209@krei.re.kr"
+        }
+      ],
+      "rebranding_policy": "PRESERVE_100_PERCENT"
+    },
+    "02_DESIGN": {
+      "total_pages": 37,
+      "page_size_pt": [
+        556.0,
+        754.0
+      ],
+      "page_size_mm": [
+        196.1,
+        266.0
+      ],
+      "format_name": "Crown Quarto (4x6배판 변형)",
+      "containers": {
+        "p02_summary_card": {
+          "shape": "rounded_rectangle",
+          "fill": "#F5F6F8"
+        },
+        "p01_cover_layout": {
+          "type": "full_bleed_canvas"
+        }
+      }
+    },
+    "03_STYLE": {
+      "colors": {
+        "primary": "#0099CC",
+        "accent": "#FF3300",
+        "table_header_fill": "#D5DBE0",
+        "card_bg": "#F5F6F8",
+        "muted_text": "#717171"
+      },
+      "borders": {
+        "table_top": "1.5pt solid #000000",
+        "table_bottom": "1.5pt solid #000000",
+        "table_inner_h": "0.5pt solid #CCCCCC",
+        "table_v": "none"
+      }
+    },
+    "04_Typography": {
+      "font_family": {
+        "headings": "맑은 고딕 (Bold)",
+        "body": "바탕체",
+        "latin_numbers": "Times New Roman"
+      },
+      "type_scale_pt": {
+        "title": 22.0,
+        "h1": 15.0,
+        "h2": 14.0,
+        "body": 10.5,
+        "caption": 10.0,
+        "footnote": 7.0
+      }
+    },
+    "05_Margins": {
+      "top_mm": 20.0,
+      "bottom_mm": 22.0,
+      "left_mm": 22.0,
+      "right_mm": 22.0,
+      "header_mm": 12.0,
+      "footer_mm": 12.0
+    },
+    "06_TypographyFineTuning": {
+      "horizontal_scale_pct": 95,
+      "tracking_pt": -0.5,
+      "line_spacing_pct": 160,
+      "paragraph_after_pt": 3.0
+    },
+    "07_Tables": {
+      "total_count": 29,
+      "body_tables": 25,
+      "appendix_tables": 4,
+      "multi_tier_header_tables": [
+        1,
+        5,
+        6,
+        7,
+        8,
+        12,
+        14,
+        17,
+        18,
+        19,
+        23,
+        24
+      ],
+      "ghost_table_tolerance": 0
+    },
+    "08_Charts": {
+      "total_count": 13,
+      "charts_list": [
+        "그림 2-1",
+        "그림 2-2",
+        "그림 2-3",
+        "그림 2-4",
+        "그림 2-5",
+        "그림 2-6",
+        "그림 2-7",
+        "그림 2-8",
+        "그림 2-9",
+        "그림 2-10",
+        "그림 2-11",
+        "그림 2-12",
+        "그림 2-13"
+      ],
+      "dpi": 300,
+      "p04_order": [
+        "chart_2_1",
+        "table_2_1"
+      ],
+      "p16_order": [
+        "table_2_6",
+        "chart_2_8"
+      ],
+      "p31_chart_required": true
+    },
+    "09_Decoration": {
+      "edge_tabs": {
+        "pages": "p03_to_p37",
+        "tab_items": [
+          "제1장",
+          "제2장",
+          "제3장",
+          "제4장",
+          "제5장"
+        ],
+        "active_tab": "제2장"
+      },
+      "chapter_badges": [
+        "| 제2장 |",
+        "부록1",
+        "부록2",
+        "부록3"
+      ],
+      "cover_artwork": "globe_network_dots",
+      "summary_top_bar": "dark_gray_capsule_bar",
+      "header_logo": "KREI_logo_top_right"
+    },
+    "10_Footnotes": {
+      "total_intext_count": 15,
+      "p01_author_footnotes_count": 4,
+      "p01_first_author_mandatory": "1 | 한국농촌경제연구원 전문연구원, phu87@krei.re.kr",
+      "linkage_rule": "STRICT_1_TO_1"
+    },
+    "11_ColumnsSections": {
+      "body_columns": 1,
+      "section_break_type": "continuous"
+    },
+    "12_Equations": {
+      "has_math": true,
+      "engine": "OMML_native"
+    },
+    "13_ListsNumbering": {
+      "levels": 3,
+      "format": "%1.%2.%3",
+      "bullets": [
+        "•",
+        "-"
+      ]
+    },
+    "14_DynamicPageFields": {
+      "header_even": "left_aligned_chapter_title",
+      "header_odd": "right_aligned_section_title",
+      "page_number_engine": "w:fldSimple_PAGE",
+      "first_page_different": true
+    },
+    "15_Hyperlinks": {
+      "toc_internal_links": true,
+      "figure_cross_ref": true
+    },
+    "16_TextWrapping": {
+      "charts": "inline",
+      "backgrounds": "behind_text",
+      "allow_overlap_clash": false
+    },
+    "17_MetadataSanitization": {
+      "clean_pc_name": true,
+      "inject_author": "(AX)창업기술 이한규 대표"
+    },
+    "18_AppendixEngine": {
+      "start_page": 35,
+      "caption_prefix": "부표"
+    },
+    "19_WatermarkSecurity": {
+      "has_watermark": false,
+      "has_approval_stamp": false
+    }
+  }
+}

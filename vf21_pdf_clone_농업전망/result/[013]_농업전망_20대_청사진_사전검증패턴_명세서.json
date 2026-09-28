@@ -1,0 +1,135 @@
+{
+  "version": "3.0-SupremeGrandMaster",
+  "document_name": "농업전망_제2장_국내곡물수급동향과전망",
+  "source_path": "upload/3f3b07ee6df942cdb31b1822aa0c1cae.pdf",
+  "intellectual_property": "(AX)창업기술 이한규 대표",
+  "modules": {
+    "01_businessDNA": {
+      "organization": "한국농촌경제연구원 (KREI)",
+      "document_type": "Academic/Policy Research Report",
+      "authors": [
+        {
+          "name": "박한울",
+          "role": "전문연구원",
+          "email": "phu87@krei.re.kr"
+        },
+        {
+          "name": "김다정",
+          "role": "전문연구원",
+          "email": "swetmug@krei.re.kr"
+        },
+        {
+          "name": "최준혁",
+          "role": "연구원",
+          "email": "wnsgur3385@krei.re.kr"
+        },
+        {
+          "name": "김지훈",
+          "role": "연구원",
+          "email": "jhkim4209@krei.re.kr"
+        }
+      ]
+    },
+    "02_DESIGN": {
+      "total_pages": 37,
+      "page_size_mm": [
+        196.1,
+        266.0
+      ],
+      "format": "Crown Quarto"
+    },
+    "03_STYLE": {
+      "table_header_fill": "D5DBE0",
+      "card_bg": "F5F6F8",
+      "primary_accent": "0099CC"
+    },
+    "04_FontFamily": {
+      "font_mapping_rFonts": {
+        "eastAsia_heading": "맑은 고딕",
+        "eastAsia_body": "바탕체",
+        "ascii_numbers": "Times New Roman",
+        "hAnsi": "Times New Roman",
+        "cs": "Times New Roman"
+      },
+      "embed_true_type": true,
+      "forbidden_fallback_fonts": [
+        "Cambria"
+      ]
+    },
+    "05_Typography": {
+      "title_pt": 22.0,
+      "h1_pt": 15.0,
+      "h2_pt": 14.0,
+      "body_pt": 10.5,
+      "footnote_pt": 7.0
+    },
+    "06_Margins": {
+      "top_mm": 20.0,
+      "bottom_mm": 22.0,
+      "left_mm": 22.0,
+      "right_mm": 22.0
+    },
+    "07_TypographyFineTuning": {
+      "horizontal_scale_pct": 95,
+      "tracking_pt": -0.5,
+      "line_spacing_pct": 160
+    },
+    "08_Tables": {
+      "total_count": 29,
+      "body_tables": 25,
+      "appendix_tables": 4,
+      "ghost_table_tolerance": 0
+    },
+    "09_Charts": {
+      "total_count": 13,
+      "dpi": 300,
+      "p31_required": true
+    },
+    "10_Decoration": {
+      "edge_tabs": 5,
+      "active_tab": "제2장",
+      "cover_artwork": true,
+      "header_logo": "KREI"
+    },
+    "11_Footnotes": {
+      "total_intext_count": 15,
+      "p01_first_author_mandatory": true
+    },
+    "12_ColumnsSections": {
+      "body_columns": 1,
+      "section_type": "continuous"
+    },
+    "13_Equations": {
+      "has_math": true,
+      "engine": "OMML_native"
+    },
+    "14_ListsNumbering": {
+      "levels": 3,
+      "format": "%1.%2.%3"
+    },
+    "15_DynamicPageFields": {
+      "engine": "w:fldSimple_PAGE",
+      "first_page_different": true
+    },
+    "16_Hyperlinks": {
+      "toc_links": true,
+      "cross_ref": true
+    },
+    "17_TextWrapping": {
+      "charts": "inline",
+      "background": "behind_text"
+    },
+    "18_MetadataSanitization": {
+      "clean_pc_name": true,
+      "inject_author": "(AX)창업기술 이한규 대표"
+    },
+    "19_AppendixEngine": {
+      "start_page": 35,
+      "caption_prefix": "부표"
+    },
+    "20_WatermarkSecurity": {
+      "has_watermark": false,
+      "approval_stamp": false
+    }
+  }
+}
